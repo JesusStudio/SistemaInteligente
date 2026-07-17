@@ -1,0 +1,1001 @@
+EstudianteID,Distrito,Grado,Sexo,Edad,Promedio,Asistencia,Tardanzas,CursosDesaprobados,Repitencias,IngresoFamiliar,DistanciaColegioKm,HorasTrabajoSemanal,ApoyoFamiliar,TipoFamilia,AccesoInternet,RecibeBeca,Desercion
+EST-0001,Carabayllo,3ro,Femenino,14,13.8,99.1,3,0,0,1850,4.8,0,4,Monoparental,S?,No,0
+EST-0002,Los Olivos,5to,Femenino,15,12.5,76.6,11,3,1,1470,3.8,0,2,Tutor/Otro,S?,No,1
+EST-0003,Independencia,2do,Masculino,12,13.8,84.1,6,0,0,2230,4.8,0,4,Biparental,No,No,0
+EST-0004,Comas,1ro,Masculino,12,15.3,81.9,8,1,0,3270,2.5,0,4,Tutor/Otro,S?,S?,0
+EST-0005,Comas,4to,Masculino,15,12.7,74.4,7,1,0,2120,2.2,29,3,Extendida,S?,No,1
+EST-0006,Puente Piedra,4to,Femenino,14,13.3,77.1,9,0,0,2650,4.1,0,5,Extendida,S?,No,0
+EST-0007,San Mart?n de Porres,1ro,Femenino,11,13.2,95.8,6,0,0,2990,3.2,0,4,Biparental,S?,No,0
+EST-0008,Carabayllo,3ro,Masculino,13,13.6,95.3,4,0,0,3200,3.8,0,3,Monoparental,S?,No,0
+EST-0009,Puente Piedra,3ro,Masculino,15,14.0,82.3,7,0,0,2390,0.4,0,3,Biparental,No,No,0
+EST-0010,Comas,4to,Masculino,15,15.4,99.8,7,0,0,990,0.5,0,5,Extendida,S?,No,0
+EST-0011,San Mart?n de Porres,1ro,Femenino,11,13.4,87.2,7,0,0,1980,3.9,0,2,Biparental,No,No,1
+EST-0012,San Mart?n de Porres,1ro,Femenino,11,15.4,90.7,5,0,0,1480,1.7,0,2,Monoparental,S?,No,0
+EST-0013,Los Olivos,1ro,Masculino,13,12.2,82.2,4,0,0,3150,6.1,0,4,Biparental,No,No,0
+EST-0014,Puente Piedra,5to,Masculino,17,14.2,86.7,10,0,0,4270,10.3,19,4,Biparental,No,No,0
+EST-0015,Los Olivos,4to,Masculino,15,15.4,91.0,5,0,0,1720,1.5,0,2,Biparental,S?,S?,0
+EST-0016,San Mart?n de Porres,1ro,Femenino,11,13.4,84.0,5,0,1,3170,11.4,20,5,Biparental,S?,No,0
+EST-0017,Independencia,1ro,Masculino,13,10.9,71.4,15,3,0,2590,4.1,16,3,Biparental,S?,No,1
+EST-0018,Comas,5to,Masculino,15,14.4,88.2,5,0,1,1860,1.2,0,4,Monoparental,No,No,0
+EST-0019,Comas,3ro,Femenino,13,13.3,98.0,3,0,0,4540,5.0,21,4,Monoparental,S?,No,0
+EST-0020,Comas,1ro,Femenino,11,13.2,81.2,13,2,1,1640,2.6,0,2,Extendida,S?,No,0
+EST-0021,Los Olivos,4to,Masculino,15,15.0,95.0,9,0,0,1450,4.5,0,3,Extendida,No,No,0
+EST-0022,Independencia,4to,Femenino,15,13.0,71.0,8,2,0,1310,2.8,0,0,Biparental,S?,S?,0
+EST-0023,Puente Piedra,3ro,Masculino,15,14.2,85.5,8,0,0,3760,2.7,0,4,Monoparental,S?,No,0
+EST-0024,Anc?n,2do,Masculino,13,13.6,89.2,7,0,0,1400,1.4,0,3,Biparental,S?,S?,0
+EST-0025,Independencia,1ro,Femenino,12,12.7,95.3,5,1,0,1390,1.8,0,4,Monoparental,S?,S?,0
+EST-0026,Comas,2do,Masculino,12,13.3,86.6,8,0,1,3790,0.8,0,2,Biparental,S?,No,0
+EST-0027,Carabayllo,4to,Femenino,14,14.5,78.6,9,0,0,2550,1.9,0,3,Biparental,No,S?,0
+EST-0028,Los Olivos,5to,Femenino,15,13.0,73.4,7,1,0,1930,4.3,16,2,Extendida,No,No,0
+EST-0029,Independencia,2do,Femenino,13,13.4,84.1,7,0,0,1320,9.1,0,2,Monoparental,No,No,0
+EST-0030,Comas,2do,Femenino,13,15.0,89.3,5,0,1,2390,7.7,0,4,Biparental,No,No,0
+EST-0031,Carabayllo,3ro,Masculino,15,12.8,92.7,5,0,0,1170,7.8,0,4,Monoparental,S?,S?,0
+EST-0032,San Mart?n de Porres,3ro,Femenino,13,13.0,84.2,7,2,0,2340,4.1,0,5,Biparental,S?,No,0
+EST-0033,Puente Piedra,2do,Femenino,13,9.9,85.5,8,2,0,2280,3.3,0,4,Monoparental,No,No,1
+EST-0034,Los Olivos,4to,Femenino,15,13.7,98.4,7,0,1,2020,1.3,0,3,Monoparental,No,S?,0
+EST-0035,Comas,4to,Femenino,15,13.9,85.7,5,0,0,2330,2.1,0,0,Biparental,S?,No,0
+EST-0036,San Mart?n de Porres,1ro,Femenino,13,12.5,90.0,5,2,0,2940,4.1,0,5,Biparental,S?,No,1
+EST-0037,Los Olivos,1ro,Femenino,13,11.9,87.4,8,0,0,780,2.5,0,3,Biparental,S?,S?,0
+EST-0038,Independencia,4to,Femenino,16,15.0,96.5,4,0,0,1180,11.9,0,5,Monoparental,No,No,0
+EST-0039,San Mart?n de Porres,5to,Masculino,15,14.5,83.1,6,1,0,3120,3.7,0,5,Biparental,S?,No,0
+EST-0040,Comas,5to,Femenino,16,12.3,84.9,8,0,0,1930,7.0,0,4,Monoparental,S?,No,1
+EST-0041,Puente Piedra,3ro,Femenino,14,12.4,81.1,5,1,0,3340,2.8,0,4,Monoparental,S?,No,0
+EST-0042,Comas,3ro,Femenino,14,11.7,83.0,5,1,0,5320,4.3,0,3,Biparental,S?,No,0
+EST-0043,Comas,1ro,Femenino,13,14.2,82.0,6,0,0,4920,0.4,0,2,Biparental,S?,S?,0
+EST-0044,Puente Piedra,5to,Femenino,16,13.3,84.7,9,0,0,3610,4.0,0,3,Biparental,S?,No,0
+EST-0045,Comas,1ro,Femenino,12,16.1,93.0,5,0,0,2220,2.1,0,3,Monoparental,No,No,0
+EST-0046,Independencia,2do,Masculino,12,12.9,80.9,5,2,1,4030,1.8,0,2,Biparental,S?,S?,0
+EST-0047,Los Olivos,3ro,Femenino,14,13.4,90.0,6,1,0,1520,8.9,0,3,Monoparental,S?,No,0
+EST-0048,Carabayllo,3ro,Masculino,15,15.9,94.1,6,0,0,2350,7.3,0,4,Monoparental,S?,No,1
+EST-0049,Puente Piedra,3ro,Masculino,14,15.7,98.1,5,0,0,1830,11.5,0,2,Extendida,S?,S?,0
+EST-0050,Los Olivos,2do,Masculino,12,13.4,93.2,4,0,0,1630,1.3,0,3,Extendida,S?,No,0
+EST-0051,Los Olivos,2do,Femenino,12,17.3,94.4,4,0,0,1410,6.7,0,3,Biparental,S?,S?,0
+EST-0052,Comas,2do,Masculino,14,14.8,93.7,7,0,0,2660,1.5,0,3,Monoparental,S?,No,0
+EST-0053,Independencia,2do,Masculino,12,17.4,89.2,9,0,0,910,3.1,0,2,Monoparental,No,No,0
+EST-0054,Independencia,4to,Femenino,14,13.6,84.7,4,1,0,730,3.0,0,3,Biparental,No,No,0
+EST-0055,Independencia,2do,Masculino,12,13.4,75.4,9,0,0,3640,7.5,0,1,Biparental,S?,No,0
+EST-0056,Puente Piedra,1ro,Masculino,13,10.8,88.4,9,1,1,2630,7.0,0,3,Biparental,S?,No,0
+EST-0057,Los Olivos,4to,Masculino,14,12.3,81.4,9,1,0,3310,2.3,0,4,Monoparental,No,No,1
+EST-0058,Independencia,5to,Masculino,17,11.7,78.2,10,0,0,1980,4.7,16,4,Biparental,S?,No,0
+EST-0059,Anc?n,4to,Femenino,15,14.1,89.7,5,0,0,2730,8.2,0,4,Biparental,S?,No,0
+EST-0060,Puente Piedra,4to,Masculino,15,13.8,85.7,7,0,0,1610,1.0,0,2,Tutor/Otro,No,No,0
+EST-0061,Los Olivos,2do,Femenino,13,13.5,92.8,5,0,0,1590,5.4,25,4,Monoparental,S?,No,0
+EST-0062,Comas,2do,Femenino,14,14.2,87.4,6,0,0,1140,1.9,0,3,Biparental,S?,No,0
+EST-0063,Independencia,4to,Femenino,14,13.3,90.9,9,0,0,5610,5.6,0,3,Extendida,S?,S?,0
+EST-0064,Carabayllo,4to,Masculino,16,12.6,85.4,8,0,0,1250,7.6,35,4,Monoparental,S?,No,1
+EST-0065,San Mart?n de Porres,4to,Femenino,16,11.2,82.5,6,2,0,4970,2.8,0,3,Monoparental,S?,No,0
+EST-0066,Santa Rosa,1ro,Masculino,11,12.0,94.8,4,1,0,1090,2.0,0,2,Biparental,S?,S?,0
+EST-0067,Anc?n,2do,Masculino,13,13.4,75.3,5,0,0,1290,1.4,16,5,Extendida,S?,No,0
+EST-0068,Comas,4to,Femenino,14,14.2,77.9,8,0,0,4100,4.2,0,5,Monoparental,S?,No,1
+EST-0069,Puente Piedra,5to,Femenino,15,11.9,75.9,12,1,0,2890,2.6,19,2,Biparental,S?,No,0
+EST-0070,Comas,5to,Masculino,17,10.0,82.7,6,0,0,2640,5.5,11,4,Biparental,S?,No,1
+EST-0071,Los Olivos,4to,Masculino,15,10.4,72.2,8,4,0,1270,1.5,29,2,Biparental,S?,No,0
+EST-0072,Independencia,5to,Femenino,17,14.1,100.0,7,0,0,3570,2.5,0,4,Biparental,No,No,0
+EST-0073,Puente Piedra,5to,Masculino,16,14.4,96.7,2,0,0,1320,5.5,0,2,Biparental,S?,No,0
+EST-0074,San Mart?n de Porres,1ro,Femenino,13,8.0,58.3,8,4,1,2480,1.7,28,2,Biparental,S?,No,1
+EST-0075,San Mart?n de Porres,4to,Femenino,14,11.0,88.0,7,1,0,1420,3.2,0,4,Extendida,No,No,0
+EST-0076,Los Olivos,1ro,Femenino,11,13.7,98.2,9,0,0,4900,1.3,0,3,Monoparental,S?,No,0
+EST-0077,Carabayllo,3ro,Femenino,15,12.5,84.2,9,1,0,2620,1.1,0,4,Biparental,S?,S?,0
+EST-0078,San Mart?n de Porres,4to,Masculino,16,15.7,88.5,7,0,0,4380,4.1,0,3,Biparental,S?,No,0
+EST-0079,Anc?n,2do,Femenino,14,14.4,94.9,4,1,0,1930,3.4,0,2,Extendida,No,S?,1
+EST-0080,Comas,2do,Femenino,14,11.7,70.8,11,2,0,1430,4.0,19,0,Biparental,S?,No,0
+EST-0081,Comas,2do,Femenino,12,13.2,95.5,7,0,0,1000,8.4,0,4,Biparental,S?,No,0
+EST-0082,Puente Piedra,5to,Femenino,17,14.3,77.7,6,0,0,2420,8.5,0,4,Biparental,S?,No,0
+EST-0083,Independencia,1ro,Masculino,13,14.8,82.6,6,0,0,4030,3.0,0,1,Biparental,S?,S?,0
+EST-0084,Carabayllo,3ro,Femenino,15,12.7,85.0,5,1,0,2820,2.9,0,2,Biparental,S?,No,0
+EST-0085,Anc?n,1ro,Masculino,12,13.0,100.0,3,0,0,1430,2.0,5,3,Monoparental,No,No,0
+EST-0086,Los Olivos,3ro,Femenino,15,14.3,90.7,7,0,0,1650,3.3,0,5,Monoparental,S?,No,0
+EST-0087,Independencia,4to,Femenino,15,12.8,93.1,7,0,0,1650,4.2,0,4,Biparental,S?,No,0
+EST-0088,Los Olivos,4to,Masculino,16,9.5,78.4,10,3,0,2070,3.0,0,4,Monoparental,S?,S?,1
+EST-0089,Los Olivos,1ro,Femenino,12,14.3,90.3,5,0,0,3080,4.4,0,4,Biparental,S?,No,0
+EST-0090,San Mart?n de Porres,5to,Femenino,16,11.3,80.8,7,1,0,2270,5.5,0,3,Monoparental,S?,No,0
+EST-0091,San Mart?n de Porres,2do,Masculino,14,13.7,77.4,9,0,0,3110,1.0,18,3,Extendida,No,No,1
+EST-0092,Carabayllo,3ro,Masculino,13,15.3,88.3,6,0,0,2680,4.3,0,4,Monoparental,S?,No,0
+EST-0093,San Mart?n de Porres,5to,Femenino,16,14.8,74.1,11,0,1,1210,5.7,0,3,Monoparental,S?,No,0
+EST-0094,Puente Piedra,3ro,Masculino,14,13.6,87.6,7,1,0,2210,2.0,0,1,Biparental,No,No,0
+EST-0095,Los Olivos,5to,Masculino,17,10.7,85.9,7,1,0,1220,3.9,0,4,Biparental,S?,No,0
+EST-0096,Puente Piedra,1ro,Masculino,11,9.7,70.5,9,2,0,2220,2.2,26,3,Tutor/Otro,S?,No,0
+EST-0097,Los Olivos,5to,Femenino,17,11.1,74.2,6,2,0,2670,2.7,0,1,Biparental,No,No,0
+EST-0098,San Mart?n de Porres,5to,Femenino,16,16.4,81.9,7,0,0,1380,8.6,0,3,Biparental,S?,No,0
+EST-0099,Comas,1ro,Femenino,13,14.8,85.3,6,1,0,1020,8.0,7,5,Monoparental,S?,S?,0
+EST-0100,Los Olivos,5to,Femenino,15,15.0,83.1,5,0,0,2360,3.3,0,2,Biparental,No,No,0
+EST-0101,San Mart?n de Porres,3ro,Femenino,13,13.0,89.0,3,1,0,1970,7.6,0,3,Biparental,S?,No,0
+EST-0102,Carabayllo,1ro,Femenino,11,13.9,94.6,5,0,0,3980,9.5,0,3,Monoparental,S?,No,0
+EST-0103,Los Olivos,4to,Masculino,16,13.1,85.1,8,0,0,1470,0.6,0,2,Biparental,S?,S?,0
+EST-0104,Independencia,2do,Femenino,14,9.8,82.1,7,3,1,5150,0.3,0,2,Extendida,S?,No,0
+EST-0105,Puente Piedra,2do,Masculino,12,14.2,95.1,4,1,0,3020,8.8,14,3,Biparental,S?,No,0
+EST-0106,Carabayllo,5to,Femenino,16,12.8,99.2,5,0,0,920,1.1,0,4,Monoparental,S?,No,0
+EST-0107,Los Olivos,2do,Femenino,14,12.3,89.5,9,0,0,1460,6.5,9,3,Monoparental,S?,S?,0
+EST-0108,San Mart?n de Porres,3ro,Masculino,15,14.9,90.4,5,0,0,2140,1.2,0,4,Biparental,No,S?,0
+EST-0109,Los Olivos,2do,Femenino,13,15.6,99.5,7,0,0,1970,5.8,0,3,Extendida,No,No,0
+EST-0110,Comas,2do,Femenino,13,15.4,90.8,5,0,0,1300,6.9,0,3,Monoparental,S?,S?,0
+EST-0111,Puente Piedra,3ro,Masculino,13,12.3,73.6,9,0,0,780,5.6,0,1,Monoparental,S?,S?,0
+EST-0112,Comas,2do,Femenino,13,12.0,88.4,4,1,0,1780,5.6,0,4,Monoparental,S?,S?,0
+EST-0113,Puente Piedra,3ro,Femenino,13,14.9,89.5,7,0,0,1860,1.6,0,4,Monoparental,S?,No,0
+EST-0114,Carabayllo,4to,Femenino,14,12.8,89.4,8,1,0,2880,8.6,0,3,Biparental,S?,No,0
+EST-0115,Comas,3ro,Femenino,13,10.8,88.2,4,2,0,2340,2.7,14,4,Extendida,S?,No,1
+EST-0116,Anc?n,4to,Femenino,16,11.7,80.3,10,0,0,1170,1.6,0,5,Biparental,S?,S?,0
+EST-0117,Carabayllo,5to,Femenino,15,14.7,97.1,3,0,0,3220,4.3,0,3,Biparental,No,No,0
+EST-0118,Los Olivos,1ro,Masculino,11,11.4,73.6,9,1,0,1520,4.7,0,4,Biparental,S?,No,0
+EST-0119,Comas,1ro,Masculino,11,14.9,77.4,10,0,0,3550,4.3,0,5,Biparental,S?,S?,0
+EST-0120,Los Olivos,3ro,Femenino,15,13.4,72.8,9,0,0,1630,0.5,0,2,Tutor/Otro,S?,No,0
+EST-0121,Puente Piedra,4to,Masculino,15,13.0,87.3,9,0,0,1560,2.4,20,4,Biparental,No,No,0
+EST-0122,San Mart?n de Porres,5to,Femenino,17,11.0,99.2,5,1,0,2100,5.8,0,5,Biparental,S?,No,0
+EST-0123,Comas,3ro,Femenino,14,15.1,92.3,7,0,0,3200,3.4,0,3,Extendida,S?,No,0
+EST-0124,Comas,5to,Masculino,16,16.6,89.1,5,0,0,2430,4.7,0,5,Extendida,No,No,0
+EST-0125,Comas,1ro,Masculino,11,16.1,84.3,6,0,0,1030,5.3,0,3,Biparental,S?,No,0
+EST-0126,Carabayllo,4to,Femenino,16,11.5,94.9,7,3,1,3580,9.1,0,2,Extendida,No,S?,0
+EST-0127,Puente Piedra,4to,Femenino,16,16.2,89.2,4,0,0,1460,5.5,0,4,Biparental,No,No,0
+EST-0128,San Mart?n de Porres,5to,Masculino,15,11.6,95.9,7,0,0,960,1.0,18,4,Monoparental,S?,No,0
+EST-0129,Independencia,1ro,Masculino,11,14.2,100.0,11,0,0,830,2.8,0,3,Biparental,S?,No,0
+EST-0130,Los Olivos,4to,Femenino,15,14.9,79.1,13,0,0,4290,3.4,0,4,Biparental,S?,No,0
+EST-0131,San Mart?n de Porres,3ro,Masculino,15,14.3,73.1,9,1,0,4840,1.7,9,3,Tutor/Otro,No,No,0
+EST-0132,Puente Piedra,5to,Masculino,17,15.0,100.0,7,0,1,1560,0.5,0,3,Tutor/Otro,S?,No,0
+EST-0133,Puente Piedra,5to,Femenino,17,13.6,87.3,4,0,0,1790,3.7,0,4,Monoparental,S?,No,0
+EST-0134,San Mart?n de Porres,2do,Femenino,12,16.0,93.5,7,0,0,2040,5.6,0,4,Biparental,No,No,0
+EST-0135,Carabayllo,3ro,Femenino,14,13.0,77.7,11,0,0,1060,0.5,0,2,Extendida,No,S?,0
+EST-0136,Puente Piedra,1ro,Femenino,12,12.2,88.5,3,0,0,2260,12.6,0,3,Biparental,S?,No,0
+EST-0137,Puente Piedra,1ro,Femenino,12,12.1,74.7,9,1,0,2840,4.3,0,5,Monoparental,S?,No,0
+EST-0138,San Mart?n de Porres,1ro,Masculino,13,10.2,89.4,10,0,0,1670,2.8,0,4,Biparental,S?,S?,1
+EST-0139,Comas,4to,Masculino,16,11.8,88.4,9,1,0,2400,3.9,0,2,Biparental,No,S?,0
+EST-0140,Puente Piedra,3ro,Femenino,14,12.0,81.2,12,4,1,1670,1.7,0,4,Biparental,S?,No,0
+EST-0141,Los Olivos,5to,Masculino,15,15.1,87.4,5,1,0,3670,0.5,0,2,Biparental,No,No,0
+EST-0142,Independencia,1ro,Masculino,11,14.6,88.8,6,0,0,1270,6.8,0,2,Biparental,No,No,1
+EST-0143,Carabayllo,5to,Femenino,16,18.5,92.4,6,0,0,1630,2.8,0,3,Monoparental,S?,No,0
+EST-0144,Comas,5to,Masculino,16,13.4,87.3,10,0,0,4600,0.4,0,5,Monoparental,S?,No,0
+EST-0145,San Mart?n de Porres,1ro,Masculino,13,16.0,89.1,12,1,0,2320,2.5,11,4,Extendida,S?,No,0
+EST-0146,Carabayllo,1ro,Femenino,11,10.6,94.1,6,0,0,7870,3.2,0,5,Extendida,S?,No,0
+EST-0147,Carabayllo,5to,Femenino,15,16.3,93.9,6,0,0,3150,2.2,0,4,Biparental,No,No,0
+EST-0148,Comas,5to,Femenino,15,11.6,85.8,15,1,0,3980,1.9,0,3,Tutor/Otro,S?,No,0
+EST-0149,Carabayllo,5to,Masculino,17,14.6,83.3,9,0,0,3000,8.1,0,4,Extendida,No,No,0
+EST-0150,Comas,2do,Masculino,14,13.0,73.1,10,1,0,1390,2.9,0,5,Biparental,S?,No,0
+EST-0151,San Mart?n de Porres,5to,Masculino,15,14.8,83.3,8,3,0,3510,6.6,16,5,Monoparental,No,No,0
+EST-0152,Comas,1ro,Femenino,12,12.7,75.0,8,2,0,1220,1.7,0,1,Biparental,S?,No,0
+EST-0153,Los Olivos,5to,Femenino,15,12.3,77.8,8,2,1,850,4.8,30,4,Biparental,S?,No,0
+EST-0154,Comas,2do,Masculino,13,10.9,85.4,5,0,0,2600,1.5,23,3,Biparental,S?,No,0
+EST-0155,Puente Piedra,1ro,Femenino,11,13.2,74.2,7,2,0,3630,2.1,27,4,Biparental,No,No,0
+EST-0156,Carabayllo,1ro,Femenino,11,12.7,71.9,10,3,2,4150,1.0,0,4,Biparental,S?,No,1
+EST-0157,Puente Piedra,4to,Femenino,15,14.4,71.7,11,2,0,2640,2.7,8,3,Tutor/Otro,S?,No,0
+EST-0158,Independencia,2do,Femenino,13,13.5,83.2,5,0,0,2020,3.3,0,2,Extendida,S?,No,0
+EST-0159,Carabayllo,1ro,Masculino,11,12.8,90.4,6,1,0,1950,5.3,0,4,Biparental,No,S?,0
+EST-0160,Puente Piedra,1ro,Femenino,11,11.1,85.5,4,0,0,2810,1.3,0,3,Extendida,S?,No,0
+EST-0161,Los Olivos,3ro,Masculino,15,15.0,78.5,10,0,0,3640,6.3,0,3,Biparental,S?,No,0
+EST-0162,Independencia,5to,Masculino,15,13.6,80.4,10,0,1,2130,8.8,0,3,Biparental,S?,No,0
+EST-0163,Comas,3ro,Masculino,13,12.3,96.2,4,1,0,2980,9.7,0,4,Monoparental,S?,No,0
+EST-0164,Puente Piedra,3ro,Masculino,14,13.7,73.5,9,2,0,3970,5.8,0,3,Biparental,S?,S?,0
+EST-0165,Comas,3ro,Masculino,15,11.5,82.1,11,0,0,4070,2.4,28,4,Monoparental,No,No,0
+EST-0166,Anc?n,3ro,Masculino,15,13.1,83.0,10,2,0,3990,5.0,0,0,Extendida,S?,No,0
+EST-0167,San Mart?n de Porres,1ro,Masculino,12,13.4,86.7,5,1,0,3330,2.8,0,3,Biparental,S?,S?,0
+EST-0168,Anc?n,1ro,Masculino,11,14.3,92.4,8,0,0,5440,4.4,0,3,Biparental,S?,No,0
+EST-0169,Carabayllo,1ro,Masculino,13,12.5,90.1,5,1,0,1300,2.6,31,4,Biparental,No,No,0
+EST-0170,Independencia,1ro,Masculino,12,14.2,72.9,6,2,0,5290,3.1,0,4,Biparental,S?,No,0
+EST-0171,Carabayllo,4to,Femenino,14,10.6,81.7,5,0,0,2190,1.2,0,4,Biparental,S?,No,0
+EST-0172,Comas,4to,Femenino,15,16.3,97.9,7,0,0,900,4.4,0,3,Monoparental,No,No,0
+EST-0173,Los Olivos,4to,Masculino,15,13.3,99.7,8,0,0,2250,3.2,0,3,Biparental,S?,No,0
+EST-0174,San Mart?n de Porres,2do,Masculino,13,11.0,75.9,6,2,0,2510,4.5,0,4,Monoparental,S?,No,0
+EST-0175,San Mart?n de Porres,3ro,Femenino,13,16.2,95.9,9,0,0,1020,1.2,0,5,Biparental,S?,No,0
+EST-0176,Carabayllo,2do,Femenino,14,13.1,79.3,4,2,0,2130,1.4,14,4,Biparental,S?,No,0
+EST-0177,San Mart?n de Porres,4to,Masculino,16,14.7,93.1,8,0,0,630,2.1,0,4,Monoparental,S?,No,0
+EST-0178,Carabayllo,1ro,Femenino,11,13.8,83.5,10,1,1,5350,8.3,7,4,Extendida,S?,No,0
+EST-0179,San Mart?n de Porres,1ro,Masculino,11,15.3,86.7,5,0,0,1820,5.1,17,3,Biparental,No,S?,0
+EST-0180,Comas,4to,Masculino,15,12.6,78.5,10,1,1,2090,9.6,31,2,Biparental,S?,No,0
+EST-0181,Puente Piedra,2do,Femenino,14,12.7,94.7,7,1,0,3560,0.8,0,2,Monoparental,No,No,0
+EST-0182,Puente Piedra,5to,Masculino,17,14.2,95.9,9,0,0,2110,4.2,0,3,Biparental,No,S?,0
+EST-0183,San Mart?n de Porres,2do,Femenino,13,12.6,88.3,7,0,0,1050,4.1,0,4,Biparental,S?,No,0
+EST-0184,San Mart?n de Porres,2do,Femenino,13,12.7,80.3,6,2,0,730,5.0,21,4,Biparental,No,S?,0
+EST-0185,Comas,4to,Masculino,14,14.7,93.8,5,0,0,3020,1.5,0,3,Biparental,S?,No,0
+EST-0186,Los Olivos,2do,Femenino,12,13.3,100.0,4,0,0,3260,3.1,0,4,Monoparental,S?,No,0
+EST-0187,Puente Piedra,2do,Femenino,12,12.9,84.8,10,0,0,1650,2.2,0,3,Monoparental,S?,No,0
+EST-0188,Carabayllo,2do,Masculino,12,13.0,91.2,10,1,1,700,0.7,0,4,Extendida,S?,No,0
+EST-0189,Puente Piedra,4to,Femenino,15,13.5,83.1,5,2,1,2510,15.0,0,3,Biparental,S?,No,0
+EST-0190,Comas,1ro,Masculino,12,12.3,87.7,7,1,0,2080,3.4,28,4,Monoparental,No,No,0
+EST-0191,Carabayllo,3ro,Femenino,14,12.7,79.2,6,0,0,2950,1.3,8,2,Monoparental,S?,No,0
+EST-0192,Los Olivos,2do,Masculino,13,12.7,83.1,5,0,0,1360,2.2,0,1,Extendida,S?,No,0
+EST-0193,Independencia,2do,Masculino,13,10.5,86.8,10,2,0,660,10.5,8,4,Tutor/Otro,No,No,0
+EST-0194,Los Olivos,5to,Masculino,16,13.7,86.9,5,0,0,1550,4.4,6,5,Biparental,No,No,0
+EST-0195,Puente Piedra,4to,Masculino,15,14.4,98.5,3,0,0,3210,0.4,13,3,Biparental,S?,No,0
+EST-0196,Independencia,1ro,Femenino,12,15.6,80.3,5,0,0,3720,3.0,0,0,Extendida,S?,No,0
+EST-0197,San Mart?n de Porres,4to,Femenino,16,11.2,79.1,13,2,0,1730,0.6,10,5,Biparental,S?,No,0
+EST-0198,Carabayllo,5to,Femenino,15,11.4,85.9,6,2,1,1540,2.1,0,3,Monoparental,No,No,1
+EST-0199,Comas,4to,Femenino,14,14.2,73.8,6,0,0,780,4.1,0,5,Extendida,No,No,0
+EST-0200,Comas,1ro,Femenino,12,11.9,91.6,4,2,1,4040,7.1,0,5,Extendida,S?,No,0
+EST-0201,Puente Piedra,3ro,Femenino,15,10.9,79.1,6,3,1,1640,1.1,20,3,Biparental,No,No,0
+EST-0202,Puente Piedra,3ro,Masculino,14,11.9,76.3,10,3,1,1420,5.4,0,3,Monoparental,S?,No,0
+EST-0203,Carabayllo,1ro,Femenino,11,11.3,87.0,4,2,0,1280,4.1,0,4,Biparental,S?,No,0
+EST-0204,Puente Piedra,4to,Femenino,16,10.7,69.5,7,3,0,1690,6.5,0,3,Biparental,No,No,1
+EST-0205,Puente Piedra,1ro,Femenino,12,13.2,94.7,5,0,0,2640,2.5,16,5,Monoparental,No,No,0
+EST-0206,Puente Piedra,2do,Femenino,14,11.5,71.9,9,3,1,1700,1.0,0,4,Biparental,S?,No,1
+EST-0207,Carabayllo,2do,Masculino,12,15.1,91.8,12,0,0,4400,4.6,0,2,Monoparental,S?,No,0
+EST-0208,Carabayllo,5to,Masculino,16,12.0,85.9,6,0,0,2990,1.2,0,5,Biparental,S?,No,0
+EST-0209,San Mart?n de Porres,5to,Masculino,17,13.1,80.1,6,1,1,2570,2.2,0,2,Biparental,S?,No,0
+EST-0210,San Mart?n de Porres,4to,Femenino,16,9.0,76.8,10,3,0,4270,1.6,0,4,Extendida,S?,No,0
+EST-0211,Carabayllo,2do,Masculino,12,10.8,87.0,8,1,0,1080,0.6,0,2,Extendida,S?,No,0
+EST-0212,Los Olivos,4to,Masculino,15,14.8,81.0,5,1,0,2270,0.6,0,4,Biparental,S?,No,0
+EST-0213,Comas,4to,Masculino,15,16.3,92.6,7,0,0,3240,5.0,0,2,Biparental,No,No,0
+EST-0214,Independencia,2do,Femenino,12,13.2,87.7,5,0,0,3290,2.6,28,3,Biparental,S?,S?,0
+EST-0215,Anc?n,2do,Masculino,13,10.4,83.1,7,2,1,1660,3.8,0,4,Biparental,S?,No,0
+EST-0216,Comas,1ro,Masculino,12,11.5,80.6,3,2,0,1080,6.6,0,4,Biparental,S?,No,0
+EST-0217,Comas,3ro,Femenino,14,13.0,84.2,5,0,0,760,5.1,0,4,Monoparental,S?,S?,0
+EST-0218,San Mart?n de Porres,3ro,Femenino,14,14.1,79.1,6,0,0,2750,10.7,0,3,Monoparental,S?,No,0
+EST-0219,Los Olivos,4to,Femenino,14,14.5,95.8,4,0,0,2000,3.8,0,2,Biparental,S?,No,0
+EST-0220,Carabayllo,2do,Masculino,12,14.6,85.3,9,0,0,1910,2.8,10,3,Biparental,S?,S?,0
+EST-0221,Independencia,4to,Femenino,16,13.4,80.7,6,0,0,2310,2.0,0,3,Biparental,S?,No,0
+EST-0222,Independencia,5to,Masculino,17,14.8,88.2,5,0,0,2040,1.4,5,4,Biparental,S?,No,0
+EST-0223,Los Olivos,4to,Femenino,15,15.6,84.7,4,0,0,1590,4.4,0,3,Extendida,S?,No,0
+EST-0224,Los Olivos,5to,Masculino,16,13.2,90.7,7,0,0,3170,2.1,0,4,Biparental,S?,No,1
+EST-0225,Independencia,4to,Masculino,15,15.2,88.5,6,0,0,1000,5.8,0,3,Biparental,S?,S?,0
+EST-0226,Comas,3ro,Femenino,15,12.4,96.2,7,0,0,1130,3.3,0,2,Extendida,S?,S?,0
+EST-0227,Los Olivos,5to,Masculino,15,14.2,84.7,6,0,0,1030,5.8,0,2,Extendida,S?,No,0
+EST-0228,San Mart?n de Porres,4to,Masculino,15,12.4,93.9,4,0,0,1740,4.3,0,2,Biparental,No,No,0
+EST-0229,Los Olivos,3ro,Masculino,14,12.0,71.7,6,0,0,2960,2.7,33,2,Biparental,No,No,1
+EST-0230,San Mart?n de Porres,4to,Masculino,16,11.3,77.2,11,3,0,1380,2.4,0,2,Biparental,S?,No,0
+EST-0231,Anc?n,5to,Masculino,17,12.6,83.7,6,1,0,2280,3.1,0,5,Monoparental,No,No,0
+EST-0232,Carabayllo,2do,Masculino,13,13.6,73.9,11,1,0,3520,3.2,0,3,Biparental,S?,No,0
+EST-0233,San Mart?n de Porres,1ro,Masculino,11,12.9,89.6,3,0,0,5550,6.3,0,5,Biparental,S?,No,0
+EST-0234,Los Olivos,1ro,Femenino,12,16.5,100.0,3,0,0,3360,1.4,0,1,Extendida,S?,No,0
+EST-0235,Independencia,4to,Masculino,16,15.2,87.5,4,0,0,1600,0.6,0,4,Biparental,S?,No,0
+EST-0236,Comas,3ro,Masculino,15,14.1,92.9,8,0,0,930,3.5,0,4,Biparental,S?,No,0
+EST-0237,Comas,1ro,Femenino,11,13.8,89.8,5,1,0,530,8.5,0,1,Biparental,S?,No,0
+EST-0238,Puente Piedra,3ro,Masculino,15,14.4,91.9,9,0,0,1530,3.4,6,3,Biparental,No,No,0
+EST-0239,Comas,5to,Masculino,15,13.8,92.9,4,0,0,2240,3.0,0,3,Biparental,No,No,0
+EST-0240,Independencia,4to,Masculino,14,13.5,97.9,8,0,0,1660,9.7,0,4,Extendida,No,No,1
+EST-0241,Puente Piedra,5to,Femenino,17,11.7,81.5,10,1,1,6150,1.3,0,2,Extendida,S?,No,0
+EST-0242,San Mart?n de Porres,4to,Femenino,15,10.0,81.1,9,3,0,1040,2.4,33,4,Tutor/Otro,S?,No,1
+EST-0243,Santa Rosa,1ro,Masculino,13,13.1,85.0,10,2,0,1510,7.9,0,4,Biparental,S?,No,0
+EST-0244,Independencia,1ro,Masculino,13,14.9,84.0,8,0,0,600,1.6,0,2,Tutor/Otro,S?,No,0
+EST-0245,Carabayllo,4to,Femenino,15,16.0,100.0,5,0,0,3970,3.5,0,3,Extendida,S?,No,0
+EST-0246,Anc?n,5to,Femenino,16,13.8,87.2,6,0,0,1510,5.0,0,4,Biparental,S?,No,0
+EST-0247,Independencia,3ro,Femenino,15,14.7,94.3,8,0,0,780,3.2,0,2,Monoparental,S?,No,0
+EST-0248,Carabayllo,2do,Femenino,12,12.0,84.2,12,0,0,1920,4.2,0,4,Monoparental,S?,No,0
+EST-0249,Carabayllo,5to,Masculino,15,12.7,100.0,6,2,0,4670,3.9,0,3,Biparental,S?,No,0
+EST-0250,Comas,2do,Masculino,14,11.9,86.1,6,3,0,6190,4.3,20,4,Monoparental,S?,No,0
+EST-0251,Santa Rosa,4to,Femenino,15,9.5,78.7,9,2,0,1830,6.2,0,0,Monoparental,No,No,0
+EST-0252,Carabayllo,1ro,Masculino,12,12.7,100.0,3,0,0,2960,2.9,0,4,Biparental,No,No,0
+EST-0253,Carabayllo,3ro,Masculino,14,14.6,82.1,6,0,0,1660,1.3,0,4,Monoparental,No,No,0
+EST-0254,San Mart?n de Porres,3ro,Femenino,13,14.4,66.3,11,1,0,1860,4.7,33,4,Biparental,S?,No,0
+EST-0255,Los Olivos,3ro,Masculino,14,11.9,91.6,3,1,0,1580,6.3,0,2,Biparental,S?,No,0
+EST-0256,Puente Piedra,5to,Masculino,17,14.3,82.1,11,1,0,4960,0.2,35,5,Biparental,S?,No,0
+EST-0257,Comas,4to,Femenino,14,14.3,93.9,7,0,0,1430,4.4,0,2,Biparental,S?,No,0
+EST-0258,San Mart?n de Porres,4to,Masculino,16,13.2,82.3,7,0,0,690,0.8,8,4,Biparental,S?,No,0
+EST-0259,San Mart?n de Porres,5to,Femenino,17,12.3,94.3,6,1,0,1130,1.6,0,3,Biparental,S?,No,0
+EST-0260,Los Olivos,3ro,Masculino,14,11.3,83.7,7,1,0,1500,5.0,32,1,Biparental,S?,No,0
+EST-0261,Santa Rosa,4to,Femenino,14,13.0,100.0,5,0,0,2300,0.9,0,4,Biparental,No,S?,0
+EST-0262,Los Olivos,5to,Femenino,17,14.7,100.0,6,0,0,1540,1.3,0,3,Biparental,No,No,0
+EST-0263,Independencia,1ro,Femenino,13,15.3,71.6,10,2,0,2320,4.8,0,2,Monoparental,S?,No,0
+EST-0264,Puente Piedra,5to,Femenino,15,12.1,77.7,7,1,0,2350,3.2,0,3,Extendida,No,No,0
+EST-0265,Puente Piedra,5to,Femenino,17,14.2,99.2,2,0,0,1710,2.9,0,5,Biparental,S?,No,0
+EST-0266,Carabayllo,3ro,Femenino,15,14.5,80.5,11,0,0,3020,3.5,0,2,Biparental,S?,No,0
+EST-0267,Los Olivos,4to,Femenino,16,14.5,96.1,2,0,0,1260,8.7,0,4,Extendida,S?,S?,0
+EST-0268,Anc?n,4to,Femenino,15,14.6,87.2,3,0,0,1200,1.7,12,3,Biparental,S?,S?,0
+EST-0269,San Mart?n de Porres,4to,Femenino,14,11.0,83.8,6,2,1,3490,11.3,0,3,Monoparental,S?,No,0
+EST-0270,Los Olivos,5to,Femenino,15,11.6,85.0,5,3,0,2170,1.2,8,4,Monoparental,S?,No,0
+EST-0271,Anc?n,4to,Femenino,16,12.8,90.9,9,1,0,500,3.5,0,4,Monoparental,No,No,0
+EST-0272,San Mart?n de Porres,1ro,Femenino,11,11.9,83.2,6,0,1,1640,10.6,0,4,Tutor/Otro,S?,No,0
+EST-0273,Santa Rosa,2do,Masculino,14,15.8,87.2,4,0,0,2830,4.6,0,2,Biparental,S?,No,0
+EST-0274,Puente Piedra,3ro,Masculino,14,15.0,89.3,5,0,0,4680,7.4,0,4,Biparental,S?,No,0
+EST-0275,Independencia,4to,Masculino,15,16.0,72.4,10,0,0,3030,3.9,24,3,Tutor/Otro,No,No,0
+EST-0276,Los Olivos,4to,Masculino,14,14.7,83.9,8,0,0,2500,2.8,0,3,Monoparental,S?,No,0
+EST-0277,Anc?n,4to,Masculino,14,12.2,85.2,9,2,0,3680,7.4,0,2,Biparental,S?,S?,0
+EST-0278,Carabayllo,3ro,Femenino,14,12.8,91.9,11,0,0,3640,3.7,0,5,Extendida,S?,No,0
+EST-0279,Comas,1ro,Masculino,12,13.9,100.0,4,0,0,3920,6.3,0,2,Extendida,S?,S?,0
+EST-0280,Independencia,2do,Masculino,13,12.0,96.3,9,1,0,1120,2.6,0,4,Extendida,No,No,1
+EST-0281,Puente Piedra,3ro,Masculino,14,13.6,82.4,7,1,0,1990,2.0,16,2,Biparental,S?,No,0
+EST-0282,Carabayllo,2do,Femenino,14,14.7,90.7,8,0,0,920,5.4,0,4,Biparental,S?,No,0
+EST-0283,Carabayllo,3ro,Masculino,14,13.1,79.0,10,2,0,3740,2.0,0,1,Extendida,S?,No,0
+EST-0284,Puente Piedra,5to,Femenino,16,15.0,78.4,8,0,0,1450,3.0,0,4,Biparental,S?,No,0
+EST-0285,San Mart?n de Porres,2do,Masculino,13,12.0,75.4,5,1,0,1200,3.1,0,3,Monoparental,No,No,0
+EST-0286,San Mart?n de Porres,5to,Masculino,16,12.7,88.7,8,0,0,5610,4.8,0,2,Extendida,S?,No,0
+EST-0287,Puente Piedra,5to,Femenino,16,13.5,89.1,8,2,1,1160,8.6,0,5,Monoparental,S?,No,0
+EST-0288,Santa Rosa,1ro,Femenino,12,14.9,98.9,3,0,0,1670,7.6,0,3,Biparental,No,No,0
+EST-0289,Los Olivos,5to,Femenino,16,15.6,81.8,12,0,0,2080,2.3,0,3,Monoparental,S?,S?,0
+EST-0290,Puente Piedra,4to,Femenino,16,15.5,76.0,9,0,0,1880,3.5,0,3,Extendida,S?,No,0
+EST-0291,Independencia,2do,Femenino,12,15.2,80.4,11,1,0,3860,0.7,0,4,Biparental,S?,No,0
+EST-0292,Comas,4to,Masculino,15,13.8,91.7,5,0,0,2890,4.1,0,3,Biparental,S?,No,0
+EST-0293,San Mart?n de Porres,1ro,Masculino,12,12.8,89.8,5,0,0,1200,2.2,0,5,Monoparental,S?,S?,0
+EST-0294,Independencia,3ro,Femenino,14,11.4,71.0,12,1,0,3200,4.5,0,2,Biparental,S?,No,0
+EST-0295,Puente Piedra,2do,Masculino,13,13.7,94.9,6,0,0,1780,6.1,0,3,Biparental,S?,No,0
+EST-0296,Independencia,2do,Masculino,13,13.5,92.9,13,1,0,1520,0.8,0,3,Biparental,No,S?,0
+EST-0297,Carabayllo,5to,Masculino,16,14.8,86.8,10,0,0,2850,1.7,0,5,Extendida,S?,No,0
+EST-0298,Carabayllo,2do,Femenino,12,15.8,92.1,4,0,0,2620,6.5,0,3,Monoparental,S?,No,0
+EST-0299,Los Olivos,3ro,Masculino,13,12.5,88.5,5,0,0,2230,2.6,0,4,Extendida,S?,No,0
+EST-0300,Puente Piedra,4to,Masculino,16,14.6,97.5,6,0,0,1300,8.6,20,3,Biparental,No,No,0
+EST-0301,Puente Piedra,4to,Femenino,16,13.9,94.2,7,1,0,2160,6.5,0,2,Biparental,No,No,0
+EST-0302,Comas,3ro,Femenino,15,14.9,90.0,5,0,0,1070,9.4,0,4,Extendida,No,No,0
+EST-0303,Anc?n,4to,Masculino,14,12.5,89.6,3,0,0,3120,1.8,0,5,Monoparental,S?,No,0
+EST-0304,Los Olivos,4to,Masculino,14,14.1,90.8,8,0,0,1760,5.0,0,2,Extendida,S?,No,0
+EST-0305,Carabayllo,1ro,Masculino,11,16.5,84.9,9,0,0,1960,3.8,0,3,Biparental,S?,No,0
+EST-0306,Comas,4to,Masculino,16,12.1,78.5,9,1,0,3000,5.5,0,4,Biparental,S?,No,0
+EST-0307,Los Olivos,2do,Masculino,14,12.1,83.7,8,0,0,1840,1.3,0,3,Monoparental,S?,No,0
+EST-0308,Comas,5to,Masculino,15,14.5,95.5,5,0,0,2660,2.8,0,3,Biparental,S?,No,0
+EST-0309,Independencia,5to,Masculino,17,12.6,82.4,7,1,0,1390,3.4,14,2,Biparental,S?,No,0
+EST-0310,Anc?n,4to,Femenino,15,13.8,90.4,6,1,1,2390,12.9,0,3,Biparental,No,No,0
+EST-0311,Carabayllo,4to,Femenino,15,13.8,78.2,12,0,0,3400,2.1,0,3,Monoparental,S?,No,0
+EST-0312,San Mart?n de Porres,1ro,Femenino,13,12.5,78.5,8,0,0,750,3.9,31,4,Monoparental,S?,No,1
+EST-0313,Los Olivos,5to,Femenino,15,11.2,91.8,3,0,0,1600,6.4,0,3,Monoparental,S?,No,0
+EST-0314,San Mart?n de Porres,2do,Femenino,14,13.5,88.1,9,0,0,2160,2.8,0,4,Biparental,S?,S?,0
+EST-0315,San Mart?n de Porres,4to,Femenino,14,16.0,93.5,12,0,0,1870,1.2,0,5,Extendida,S?,No,0
+EST-0316,Carabayllo,3ro,Masculino,14,14.4,89.0,4,0,1,2640,3.6,0,2,Tutor/Otro,S?,No,1
+EST-0317,Comas,5to,Masculino,16,12.6,82.7,9,0,0,3830,5.4,23,2,Biparental,S?,No,0
+EST-0318,Los Olivos,1ro,Femenino,12,16.5,74.9,13,0,0,2150,4.2,0,3,Monoparental,S?,No,0
+EST-0319,Carabayllo,4to,Femenino,15,12.3,77.7,6,1,0,2630,1.4,0,3,Biparental,S?,No,0
+EST-0320,Carabayllo,3ro,Femenino,15,11.2,82.8,6,1,0,2560,0.9,22,4,Monoparental,No,No,1
+EST-0321,San Mart?n de Porres,3ro,Femenino,14,12.7,100.0,1,0,0,3530,6.2,0,4,Monoparental,S?,No,0
+EST-0322,San Mart?n de Porres,2do,Masculino,13,10.5,62.9,9,2,0,3090,2.3,23,4,Biparental,No,No,0
+EST-0323,Comas,4to,Masculino,16,14.8,86.9,6,0,0,4670,2.3,0,5,Biparental,S?,S?,0
+EST-0324,Puente Piedra,1ro,Masculino,12,15.9,91.3,10,0,0,3740,6.8,0,3,Biparental,S?,No,0
+EST-0325,Los Olivos,1ro,Masculino,12,10.8,77.9,7,1,0,1480,0.7,30,3,Biparental,S?,No,0
+EST-0326,Puente Piedra,1ro,Masculino,12,13.4,87.1,6,0,0,2380,1.1,16,5,Monoparental,S?,S?,0
+EST-0327,Comas,1ro,Femenino,11,14.7,89.8,6,0,0,3500,8.3,0,5,Biparental,S?,No,0
+EST-0328,Independencia,1ro,Femenino,13,10.7,76.6,9,2,0,2220,3.1,24,3,Extendida,S?,No,0
+EST-0329,San Mart?n de Porres,2do,Femenino,14,11.8,87.3,5,0,0,500,2.5,0,3,Biparental,S?,No,0
+EST-0330,San Mart?n de Porres,1ro,Femenino,11,12.9,81.9,7,1,0,5500,5.8,0,5,Biparental,No,No,0
+EST-0331,Comas,4to,Femenino,16,13.3,84.7,5,0,0,2630,6.6,0,3,Monoparental,No,S?,0
+EST-0332,San Mart?n de Porres,5to,Masculino,15,15.1,89.4,6,0,0,2420,2.1,0,2,Monoparental,S?,S?,0
+EST-0333,Comas,5to,Masculino,16,13.5,96.9,5,0,0,2470,1.9,0,4,Extendida,S?,No,0
+EST-0334,Puente Piedra,2do,Femenino,13,14.7,87.4,6,0,0,1330,11.6,0,3,Extendida,S?,No,0
+EST-0335,Puente Piedra,5to,Masculino,15,11.7,87.2,9,0,0,2100,2.5,0,3,Tutor/Otro,S?,S?,0
+EST-0336,Independencia,5to,Femenino,15,13.3,88.5,5,0,0,1710,1.7,0,4,Monoparental,No,No,0
+EST-0337,San Mart?n de Porres,3ro,Femenino,15,13.0,81.4,5,1,1,1320,4.7,0,3,Monoparental,No,No,1
+EST-0338,Independencia,1ro,Femenino,12,11.9,87.1,10,1,0,2240,2.9,0,3,Biparental,S?,No,0
+EST-0339,San Mart?n de Porres,1ro,Femenino,11,10.2,98.8,7,2,1,2590,0.8,0,2,Biparental,S?,No,0
+EST-0340,San Mart?n de Porres,4to,Femenino,15,11.8,81.7,7,1,0,3790,3.2,0,5,Biparental,S?,No,0
+EST-0341,San Mart?n de Porres,4to,Masculino,15,12.1,75.0,14,2,1,2430,3.1,0,4,Biparental,No,No,0
+EST-0342,San Mart?n de Porres,3ro,Femenino,13,14.0,89.5,7,0,0,1930,2.6,15,0,Monoparental,S?,No,0
+EST-0343,Carabayllo,3ro,Femenino,15,13.7,92.6,6,0,0,2870,4.0,0,4,Biparental,No,No,0
+EST-0344,Puente Piedra,4to,Masculino,14,16.2,94.9,7,0,0,3750,6.5,0,4,Monoparental,S?,No,0
+EST-0345,Puente Piedra,2do,Femenino,13,15.8,81.2,7,0,0,3580,1.2,0,0,Tutor/Otro,S?,No,0
+EST-0346,Los Olivos,5to,Masculino,16,13.5,88.0,5,0,0,1850,8.0,0,5,Biparental,S?,S?,0
+EST-0347,Los Olivos,4to,Femenino,15,13.4,90.7,12,0,0,2210,4.7,8,5,Monoparental,S?,S?,0
+EST-0348,Carabayllo,2do,Femenino,13,11.1,96.8,8,2,0,1800,6.2,0,3,Biparental,No,No,0
+EST-0349,Carabayllo,4to,Masculino,14,13.6,91.5,7,0,0,6780,4.7,0,4,Biparental,S?,No,0
+EST-0350,Puente Piedra,4to,Masculino,15,14.6,92.3,7,0,0,3610,2.0,0,3,Biparental,S?,No,0
+EST-0351,Carabayllo,2do,Femenino,14,15.6,96.1,5,0,0,4110,6.0,0,3,Biparental,S?,No,0
+EST-0352,Puente Piedra,2do,Femenino,14,11.7,91.9,6,0,0,1230,2.2,0,5,Biparental,S?,No,1
+EST-0353,Carabayllo,2do,Femenino,13,14.1,62.1,9,0,0,2580,4.8,23,3,Biparental,No,No,0
+EST-0354,Independencia,4to,Femenino,15,16.4,95.3,7,0,0,4550,2.3,0,3,Monoparental,S?,No,0
+EST-0355,Anc?n,1ro,Femenino,13,13.9,81.8,10,0,0,1060,3.3,0,4,Monoparental,No,No,0
+EST-0356,Puente Piedra,3ro,Masculino,13,13.8,87.9,5,0,0,2000,3.6,0,2,Tutor/Otro,S?,No,0
+EST-0357,Comas,5to,Femenino,16,12.6,78.5,11,1,0,740,1.8,0,3,Extendida,S?,S?,0
+EST-0358,Independencia,1ro,Femenino,11,14.6,76.0,11,0,0,9000,2.4,0,4,Monoparental,S?,No,0
+EST-0359,Comas,3ro,Femenino,14,13.5,77.7,11,2,1,2410,1.8,0,1,Monoparental,S?,No,0
+EST-0360,Los Olivos,2do,Femenino,13,14.3,100.0,5,0,0,1600,1.2,0,3,Monoparental,No,No,0
+EST-0361,Puente Piedra,5to,Masculino,15,12.8,85.9,4,1,0,3460,1.0,0,3,Biparental,S?,No,0
+EST-0362,Carabayllo,1ro,Masculino,12,14.0,99.9,6,0,0,1710,7.7,0,2,Monoparental,No,No,0
+EST-0363,Puente Piedra,3ro,Masculino,15,14.4,78.8,8,0,1,3030,0.6,0,2,Monoparental,No,No,1
+EST-0364,Puente Piedra,4to,Femenino,14,14.4,93.4,4,0,1,1650,9.5,0,2,Extendida,No,No,1
+EST-0365,San Mart?n de Porres,1ro,Masculino,13,14.4,81.2,9,0,0,3980,2.0,0,2,Biparental,S?,No,0
+EST-0366,Comas,3ro,Masculino,13,12.5,87.7,4,2,0,1480,9.5,19,2,Extendida,S?,S?,0
+EST-0367,San Mart?n de Porres,1ro,Femenino,13,13.4,91.1,8,0,0,2310,0.6,0,3,Biparental,S?,No,1
+EST-0368,Carabayllo,3ro,Femenino,13,14.3,86.3,5,0,0,1220,0.4,0,3,Biparental,S?,No,0
+EST-0369,Santa Rosa,1ro,Femenino,11,13.5,90.7,5,1,0,2330,3.4,0,2,Monoparental,S?,No,0
+EST-0370,Carabayllo,4to,Femenino,16,12.3,79.6,9,1,0,2000,7.6,13,4,Biparental,S?,No,1
+EST-0371,Comas,2do,Femenino,12,11.2,80.9,7,2,0,1070,1.4,0,3,Monoparental,S?,S?,0
+EST-0372,Carabayllo,2do,Masculino,14,12.0,96.3,5,0,0,5730,6.2,0,2,Biparental,S?,No,0
+EST-0373,San Mart?n de Porres,4to,Femenino,15,15.2,92.3,4,0,0,1910,5.3,0,4,Biparental,S?,No,0
+EST-0374,Independencia,5to,Masculino,17,13.5,84.7,11,1,0,2120,4.6,16,3,Extendida,S?,No,0
+EST-0375,San Mart?n de Porres,3ro,Masculino,13,15.0,80.4,13,1,0,3560,2.2,24,4,Extendida,S?,No,0
+EST-0376,Carabayllo,4to,Masculino,15,11.6,69.6,10,0,0,1260,5.7,0,2,Biparental,No,S?,0
+EST-0377,San Mart?n de Porres,2do,Femenino,12,11.5,81.1,9,0,0,1180,2.5,10,2,Biparental,S?,No,0
+EST-0378,Comas,4to,Femenino,16,12.6,81.6,7,1,0,1480,2.2,0,3,Monoparental,S?,No,0
+EST-0379,Comas,2do,Masculino,13,13.4,85.1,6,0,0,3830,1.1,0,2,Biparental,S?,No,0
+EST-0380,Puente Piedra,1ro,Femenino,13,14.0,82.1,10,0,0,1250,4.2,0,4,Monoparental,S?,No,0
+EST-0381,Anc?n,5to,Femenino,17,14.0,91.0,7,0,0,8870,12.9,0,5,Extendida,S?,No,0
+EST-0382,Los Olivos,2do,Femenino,14,10.8,82.4,8,0,0,2440,4.5,0,4,Extendida,No,No,1
+EST-0383,Independencia,2do,Femenino,12,14.7,100.0,6,0,0,2630,4.8,0,3,Monoparental,S?,No,0
+EST-0384,Anc?n,2do,Femenino,12,14.9,87.7,9,0,0,2790,3.4,0,3,Monoparental,S?,No,0
+EST-0385,Independencia,5to,Masculino,15,13.4,79.1,7,1,0,1520,1.7,0,2,Biparental,S?,No,1
+EST-0386,Comas,4to,Femenino,14,14.2,86.0,4,0,0,2110,5.4,0,3,Extendida,S?,S?,0
+EST-0387,Comas,1ro,Masculino,11,15.3,98.1,8,0,0,1540,5.0,0,2,Biparental,S?,No,0
+EST-0388,San Mart?n de Porres,1ro,Femenino,13,13.8,96.1,5,0,0,2040,1.1,0,2,Biparental,S?,No,0
+EST-0389,Los Olivos,4to,Masculino,16,13.6,75.2,7,0,0,1890,1.6,0,5,Monoparental,No,No,0
+EST-0390,Carabayllo,1ro,Masculino,13,13.7,87.3,5,0,0,4690,4.3,0,3,Biparental,S?,No,0
+EST-0391,Puente Piedra,1ro,Masculino,11,14.0,93.5,2,0,0,2400,3.4,0,4,Extendida,No,S?,0
+EST-0392,Comas,4to,Femenino,14,15.6,94.7,2,0,1,2180,4.2,0,4,Monoparental,S?,No,0
+EST-0393,Los Olivos,4to,Masculino,16,13.9,85.7,12,1,0,1970,5.3,0,3,Extendida,No,S?,0
+EST-0394,Comas,2do,Masculino,13,10.9,87.7,6,3,1,1430,5.5,0,4,Biparental,S?,No,0
+EST-0395,Los Olivos,4to,Femenino,14,12.6,90.8,9,2,0,1290,2.9,0,3,Monoparental,S?,No,0
+EST-0396,Puente Piedra,2do,Masculino,12,11.5,81.8,9,1,0,1910,1.1,35,2,Biparental,S?,No,0
+EST-0397,Comas,3ro,Masculino,14,14.3,94.1,6,0,0,4230,1.7,0,3,Biparental,S?,S?,0
+EST-0398,San Mart?n de Porres,1ro,Femenino,12,13.2,88.8,4,1,0,2810,0.9,0,4,Biparental,No,No,0
+EST-0399,Los Olivos,5to,Masculino,17,15.9,98.5,3,0,0,1530,0.9,0,2,Extendida,S?,No,0
+EST-0400,Los Olivos,1ro,Masculino,11,15.7,79.5,8,0,0,1400,7.1,0,3,Biparental,S?,No,0
+EST-0401,Carabayllo,5to,Femenino,15,15.7,78.0,7,1,0,1810,5.7,0,4,Monoparental,S?,No,0
+EST-0402,Comas,3ro,Femenino,13,12.8,94.0,2,0,0,3760,3.4,0,4,Extendida,S?,No,0
+EST-0403,Comas,2do,Masculino,12,12.3,74.1,6,1,0,3710,4.0,28,3,Biparental,S?,No,0
+EST-0404,Anc?n,3ro,Femenino,15,13.8,73.5,12,1,1,1730,2.7,0,3,Extendida,No,No,0
+EST-0405,Anc?n,4to,Femenino,16,14.5,81.8,8,0,0,1530,1.8,0,4,Monoparental,No,No,0
+EST-0406,Puente Piedra,5to,Femenino,16,14.1,88.6,3,0,0,2790,14.7,0,4,Monoparental,No,S?,0
+EST-0407,Comas,5to,Femenino,17,10.1,82.5,9,1,0,1410,7.3,0,3,Biparental,S?,No,1
+EST-0408,Puente Piedra,4to,Femenino,16,13.0,94.5,9,0,0,1860,7.3,31,3,Extendida,S?,No,0
+EST-0409,Carabayllo,5to,Femenino,16,17.2,94.8,2,0,0,5110,5.3,0,4,Tutor/Otro,S?,No,0
+EST-0410,Puente Piedra,2do,Masculino,13,14.4,78.8,10,0,0,1510,2.6,0,3,Biparental,S?,S?,0
+EST-0411,Carabayllo,1ro,Masculino,11,12.7,83.8,9,1,1,2270,5.8,0,4,Biparental,S?,No,0
+EST-0412,San Mart?n de Porres,4to,Femenino,16,12.2,86.5,2,0,0,2110,4.2,14,5,Monoparental,S?,S?,0
+EST-0413,San Mart?n de Porres,5to,Femenino,17,12.2,76.1,6,0,0,3500,4.0,23,3,Biparental,S?,No,0
+EST-0414,Puente Piedra,1ro,Masculino,11,13.1,88.5,7,0,0,2440,7.7,0,1,Biparental,No,No,0
+EST-0415,Comas,5to,Masculino,15,15.5,79.9,4,0,0,990,1.8,20,2,Extendida,S?,No,0
+EST-0416,Anc?n,4to,Femenino,14,12.8,83.6,10,1,0,1200,3.5,0,4,Monoparental,S?,No,0
+EST-0417,Puente Piedra,4to,Masculino,15,11.1,93.3,7,1,0,2880,8.2,0,2,Biparental,No,No,0
+EST-0418,Los Olivos,2do,Masculino,12,11.6,85.4,6,1,0,2060,1.7,0,4,Biparental,S?,No,1
+EST-0419,Carabayllo,5to,Femenino,15,10.8,89.9,6,1,0,1630,6.6,0,2,Monoparental,No,S?,0
+EST-0420,Los Olivos,4to,Masculino,14,10.5,91.8,6,0,0,1020,4.8,0,4,Biparental,S?,No,0
+EST-0421,Anc?n,5to,Masculino,15,12.7,90.9,5,0,0,2450,1.9,0,3,Monoparental,S?,S?,1
+EST-0422,Independencia,5to,Femenino,17,10.7,71.8,12,4,0,1650,3.3,35,3,Biparental,S?,No,0
+EST-0423,Los Olivos,3ro,Femenino,13,13.1,86.9,5,0,0,3100,1.8,0,3,Biparental,S?,S?,0
+EST-0424,Puente Piedra,5to,Femenino,17,13.9,98.3,3,0,0,2520,3.8,0,4,Extendida,S?,No,0
+EST-0425,Comas,2do,Masculino,14,13.0,73.1,12,1,0,1290,0.6,0,2,Biparental,S?,S?,0
+EST-0426,Comas,3ro,Masculino,14,15.0,86.5,5,0,0,1070,1.4,6,4,Monoparental,S?,No,0
+EST-0427,Comas,5to,Femenino,15,15.2,82.8,8,0,0,1560,4.6,0,3,Monoparental,S?,No,0
+EST-0428,Anc?n,1ro,Femenino,11,14.2,89.0,4,1,0,2580,1.8,0,5,Monoparental,S?,S?,0
+EST-0429,San Mart?n de Porres,2do,Femenino,14,13.7,90.1,7,0,0,3090,0.9,0,1,Biparental,S?,No,0
+EST-0430,San Mart?n de Porres,1ro,Masculino,11,14.2,79.1,6,0,1,740,3.0,0,3,Extendida,No,No,0
+EST-0431,Los Olivos,4to,Masculino,14,12.3,85.9,5,0,0,4430,2.1,23,2,Biparental,S?,No,0
+EST-0432,Carabayllo,2do,Masculino,14,16.6,91.9,6,0,0,2430,6.4,0,4,Biparental,S?,S?,0
+EST-0433,Carabayllo,1ro,Femenino,13,14.2,84.3,8,0,0,1770,1.8,24,4,Biparental,S?,No,0
+EST-0434,San Mart?n de Porres,1ro,Masculino,11,13.8,71.7,9,1,0,720,5.2,0,2,Monoparental,No,S?,0
+EST-0435,Carabayllo,4to,Femenino,16,9.7,86.9,4,2,0,1200,11.1,32,5,Monoparental,No,No,1
+EST-0436,Carabayllo,2do,Masculino,14,12.9,90.8,5,0,0,3960,3.9,0,3,Monoparental,S?,No,0
+EST-0437,Puente Piedra,5to,Femenino,16,10.5,72.7,13,2,0,2180,6.3,29,3,Extendida,S?,No,1
+EST-0438,Comas,5to,Femenino,15,11.4,91.5,6,0,0,2220,3.2,14,2,Biparental,S?,No,0
+EST-0439,Independencia,2do,Femenino,13,13.3,92.0,11,0,0,1750,2.5,0,1,Biparental,No,No,0
+EST-0440,Independencia,2do,Femenino,14,13.8,88.4,5,0,0,1600,0.2,0,3,Biparental,No,No,0
+EST-0441,Puente Piedra,5to,Femenino,16,14.1,92.1,7,0,0,1750,2.0,0,2,Biparental,No,No,0
+EST-0442,Independencia,2do,Masculino,13,10.9,54.9,13,3,2,3410,4.2,0,1,Monoparental,S?,No,1
+EST-0443,San Mart?n de Porres,3ro,Femenino,14,13.5,89.1,5,0,0,3350,3.0,0,4,Monoparental,S?,No,0
+EST-0444,Independencia,5to,Masculino,16,9.5,70.8,9,5,1,2970,7.6,28,4,Biparental,S?,No,0
+EST-0445,Comas,5to,Femenino,17,13.9,81.7,8,0,0,1850,3.7,0,4,Biparental,S?,No,0
+EST-0446,Carabayllo,4to,Masculino,14,12.0,72.4,10,2,0,2620,9.2,0,2,Biparental,S?,No,0
+EST-0447,Puente Piedra,4to,Masculino,15,12.0,73.6,7,4,1,4930,4.3,0,4,Monoparental,S?,No,1
+EST-0448,Carabayllo,2do,Femenino,13,8.0,61.9,13,5,1,3400,2.6,34,3,Biparental,S?,No,1
+EST-0449,Los Olivos,2do,Femenino,14,16.1,97.9,2,0,0,4440,3.7,0,3,Biparental,S?,No,0
+EST-0450,Los Olivos,3ro,Femenino,15,15.0,90.1,5,0,0,1000,3.8,8,2,Biparental,S?,No,0
+EST-0451,San Mart?n de Porres,5to,Masculino,15,12.1,76.5,13,0,0,730,6.7,0,3,Monoparental,S?,No,0
+EST-0452,Carabayllo,3ro,Masculino,13,12.2,77.5,6,1,0,3300,6.8,7,3,Biparental,S?,No,0
+EST-0453,Carabayllo,2do,Femenino,13,15.1,94.0,4,0,0,1970,0.8,0,3,Biparental,S?,No,0
+EST-0454,Puente Piedra,4to,Masculino,14,15.6,100.0,11,1,0,500,2.3,0,3,Biparental,No,No,0
+EST-0455,Comas,1ro,Femenino,11,12.6,93.6,9,0,0,3230,0.3,0,4,Biparental,No,No,0
+EST-0456,Carabayllo,1ro,Femenino,13,12.9,82.9,4,0,0,3910,4.3,10,4,Extendida,S?,No,0
+EST-0457,San Mart?n de Porres,2do,Masculino,13,15.6,93.5,9,0,0,2550,5.0,22,5,Biparental,S?,No,0
+EST-0458,Puente Piedra,4to,Femenino,14,13.2,87.9,7,0,0,2310,3.5,9,3,Biparental,S?,No,0
+EST-0459,Comas,5to,Femenino,16,11.1,79.0,6,1,0,920,2.6,34,2,Biparental,S?,S?,0
+EST-0460,Carabayllo,1ro,Masculino,13,10.5,73.2,8,3,1,3870,0.4,19,3,Biparental,S?,No,1
+EST-0461,San Mart?n de Porres,1ro,Masculino,11,14.6,83.1,5,0,0,8530,6.1,0,1,Monoparental,S?,No,0
+EST-0462,Los Olivos,3ro,Femenino,14,13.4,82.0,8,0,0,8880,2.1,0,2,Biparental,S?,No,0
+EST-0463,San Mart?n de Porres,4to,Masculino,16,10.8,87.3,6,0,0,2190,7.1,31,4,Monoparental,S?,No,0
+EST-0464,Los Olivos,5to,Femenino,17,13.6,82.0,5,1,1,2320,5.2,13,5,Monoparental,S?,S?,0
+EST-0465,Comas,3ro,Femenino,13,14.2,92.1,5,0,0,3290,2.2,0,4,Biparental,No,No,0
+EST-0466,Carabayllo,1ro,Femenino,13,12.4,89.2,6,0,0,1140,16.5,0,3,Biparental,S?,S?,0
+EST-0467,Independencia,2do,Masculino,12,11.7,81.8,7,2,0,1590,5.9,0,3,Biparental,No,No,0
+EST-0468,Puente Piedra,4to,Masculino,14,8.4,61.9,10,3,1,3150,1.2,29,3,Biparental,S?,No,1
+EST-0469,Anc?n,4to,Femenino,14,15.4,79.0,7,0,0,2500,1.0,0,3,Biparental,S?,No,0
+EST-0470,Comas,2do,Femenino,14,11.8,77.6,9,0,0,1600,2.5,0,4,Monoparental,S?,No,0
+EST-0471,Independencia,3ro,Femenino,13,15.0,80.8,6,0,0,2040,9.8,0,2,Biparental,S?,No,0
+EST-0472,Puente Piedra,2do,Masculino,14,15.2,100.0,6,0,0,1100,1.6,0,3,Monoparental,No,No,0
+EST-0473,Carabayllo,3ro,Femenino,14,14.3,100.0,5,0,0,1730,3.6,0,2,Biparental,S?,No,0
+EST-0474,San Mart?n de Porres,3ro,Femenino,14,10.7,57.7,12,5,1,3980,1.9,0,1,Extendida,S?,No,1
+EST-0475,Comas,1ro,Masculino,13,12.5,75.8,9,2,1,1520,2.6,0,4,Extendida,S?,No,0
+EST-0476,San Mart?n de Porres,1ro,Femenino,11,13.4,84.3,9,0,0,1440,4.6,0,5,Monoparental,S?,No,1
+EST-0477,San Mart?n de Porres,5to,Masculino,17,11.7,77.1,9,1,0,1690,1.4,0,3,Biparental,No,No,0
+EST-0478,San Mart?n de Porres,3ro,Femenino,15,12.1,83.5,6,0,0,1110,1.7,0,3,Monoparental,No,S?,0
+EST-0479,Comas,1ro,Masculino,13,13.2,79.2,8,1,1,3100,3.4,0,5,Monoparental,S?,S?,0
+EST-0480,San Mart?n de Porres,3ro,Femenino,14,11.9,83.3,10,1,0,920,3.8,0,2,Biparental,S?,No,0
+EST-0481,Comas,3ro,Femenino,15,15.4,86.6,10,0,0,1280,8.1,0,1,Monoparental,No,No,0
+EST-0482,Comas,4to,Masculino,14,12.2,77.9,12,1,0,2460,5.5,0,4,Biparental,S?,S?,0
+EST-0483,Carabayllo,1ro,Femenino,11,12.9,78.5,12,0,0,710,2.8,0,5,Biparental,S?,S?,0
+EST-0484,Independencia,5to,Masculino,15,14.4,86.8,5,1,0,4950,4.8,0,4,Biparental,S?,No,0
+EST-0485,Carabayllo,5to,Masculino,17,13.8,75.4,8,1,0,4460,2.1,33,3,Biparental,S?,No,1
+EST-0486,San Mart?n de Porres,5to,Masculino,16,14.6,83.7,6,1,0,2200,2.2,0,5,Biparental,S?,No,0
+EST-0487,Anc?n,1ro,Femenino,11,12.5,84.5,4,0,0,4260,1.5,0,3,Biparental,No,No,0
+EST-0488,Independencia,3ro,Masculino,13,15.6,98.0,7,0,0,2540,2.5,0,3,Biparental,No,No,0
+EST-0489,San Mart?n de Porres,2do,Masculino,14,13.4,81.8,9,2,0,3060,7.2,12,3,Biparental,S?,No,0
+EST-0490,Carabayllo,5to,Femenino,16,12.8,88.5,10,0,0,4080,0.6,0,2,Biparental,S?,No,0
+EST-0491,Los Olivos,5to,Masculino,15,16.3,91.3,3,0,0,7360,3.0,0,3,Tutor/Otro,S?,No,0
+EST-0492,Los Olivos,5to,Masculino,15,14.3,85.9,5,0,0,2490,6.1,0,3,Biparental,S?,No,0
+EST-0493,Puente Piedra,5to,Femenino,17,14.6,78.6,5,0,0,8130,3.8,13,3,Biparental,S?,No,0
+EST-0494,Puente Piedra,3ro,Masculino,14,11.9,74.7,10,2,0,4070,1.4,26,4,Tutor/Otro,S?,No,0
+EST-0495,San Mart?n de Porres,1ro,Femenino,13,12.8,82.4,9,1,0,5370,3.5,0,3,Biparental,S?,No,0
+EST-0496,Puente Piedra,1ro,Masculino,12,12.4,97.8,4,1,0,2260,6.8,0,5,Extendida,S?,No,0
+EST-0497,Los Olivos,2do,Femenino,14,12.4,70.8,12,1,0,2740,4.3,19,3,Biparental,No,No,0
+EST-0498,Comas,2do,Masculino,12,11.3,85.5,10,1,0,7680,1.2,0,2,Extendida,S?,No,0
+EST-0499,Carabayllo,3ro,Femenino,14,13.9,85.6,10,0,0,1580,0.8,0,2,Biparental,No,No,0
+EST-0500,Carabayllo,4to,Femenino,15,11.6,76.3,6,2,0,1140,3.8,0,3,Monoparental,S?,No,0
+EST-0501,San Mart?n de Porres,2do,Masculino,13,14.3,92.8,7,0,0,7900,6.0,7,3,Biparental,S?,S?,0
+EST-0502,Comas,3ro,Femenino,13,13.6,83.7,5,0,0,710,4.2,0,4,Biparental,No,No,0
+EST-0503,San Mart?n de Porres,3ro,Masculino,13,11.4,88.0,5,1,0,3740,7.3,0,3,Biparental,No,S?,0
+EST-0504,Comas,1ro,Masculino,11,11.9,83.2,4,1,0,1500,5.4,12,4,Biparental,S?,No,0
+EST-0505,Anc?n,2do,Femenino,14,14.3,91.1,8,0,0,1960,9.5,0,3,Monoparental,No,No,0
+EST-0506,Comas,5to,Femenino,16,12.8,80.6,5,2,0,800,4.6,19,4,Monoparental,No,No,0
+EST-0507,Comas,3ro,Femenino,15,14.9,83.8,11,1,0,1930,5.4,0,3,Monoparental,No,No,0
+EST-0508,Carabayllo,4to,Masculino,14,13.6,86.4,7,1,0,1010,1.4,0,4,Biparental,S?,No,0
+EST-0509,Independencia,2do,Femenino,12,13.2,89.5,5,0,0,2070,1.1,0,2,Biparental,No,No,0
+EST-0510,Puente Piedra,1ro,Femenino,12,14.8,87.9,8,0,0,2730,5.0,0,4,Monoparental,No,S?,0
+EST-0511,Independencia,2do,Masculino,14,14.7,85.9,7,0,0,960,1.5,0,2,Biparental,S?,S?,0
+EST-0512,Independencia,5to,Femenino,16,14.3,72.1,9,0,0,3670,20.0,11,5,Extendida,S?,S?,0
+EST-0513,Santa Rosa,5to,Masculino,16,13.0,85.0,9,1,1,3550,5.6,0,1,Monoparental,S?,No,0
+EST-0514,Carabayllo,3ro,Masculino,14,14.0,98.3,2,0,0,650,8.2,0,3,Monoparental,No,No,0
+EST-0515,Los Olivos,4to,Femenino,14,13.6,92.5,12,1,0,1610,4.1,0,3,Biparental,No,No,0
+EST-0516,Santa Rosa,2do,Femenino,13,12.0,92.6,3,0,0,1380,1.4,0,5,Biparental,S?,No,0
+EST-0517,Independencia,5to,Femenino,17,15.7,92.6,7,0,0,9000,8.6,0,5,Biparental,No,No,0
+EST-0518,Los Olivos,3ro,Femenino,15,12.6,84.3,5,2,0,2140,5.1,0,2,Tutor/Otro,No,No,0
+EST-0519,Los Olivos,4to,Masculino,16,17.6,92.0,8,0,0,970,3.5,0,5,Biparental,S?,S?,0
+EST-0520,Carabayllo,3ro,Femenino,15,13.5,91.9,5,0,0,2350,2.5,0,2,Monoparental,No,No,0
+EST-0521,Puente Piedra,3ro,Masculino,13,12.9,77.5,10,1,0,1020,2.1,0,5,Biparental,S?,No,0
+EST-0522,San Mart?n de Porres,5to,Femenino,15,16.2,100.0,8,0,0,1390,2.0,0,3,Biparental,S?,No,0
+EST-0523,San Mart?n de Porres,3ro,Femenino,13,16.0,75.5,8,0,0,4440,2.2,0,4,Biparental,S?,S?,0
+EST-0524,Los Olivos,4to,Masculino,15,15.0,97.4,6,0,0,2120,0.8,0,3,Monoparental,S?,No,0
+EST-0525,Comas,3ro,Masculino,13,14.4,86.0,9,0,0,2270,5.5,0,2,Tutor/Otro,S?,No,1
+EST-0526,Puente Piedra,2do,Masculino,12,14.5,94.5,6,0,0,3950,4.1,0,3,Biparental,S?,No,0
+EST-0527,San Mart?n de Porres,1ro,Masculino,13,11.9,74.3,7,2,1,6490,8.4,29,4,Monoparental,S?,No,0
+EST-0528,San Mart?n de Porres,3ro,Femenino,14,11.3,79.5,3,3,1,2580,6.3,0,2,Biparental,S?,No,1
+EST-0529,Comas,3ro,Masculino,15,12.4,97.6,6,1,0,1150,4.4,0,4,Biparental,No,No,0
+EST-0530,San Mart?n de Porres,1ro,Femenino,12,11.5,78.8,10,2,0,2060,5.1,31,3,Biparental,No,S?,1
+EST-0531,Puente Piedra,5to,Femenino,17,14.9,98.7,7,0,0,2540,6.1,0,2,Biparental,No,No,0
+EST-0532,San Mart?n de Porres,2do,Masculino,12,12.8,98.6,7,0,0,1970,5.4,0,4,Biparental,S?,No,0
+EST-0533,Carabayllo,5to,Masculino,16,14.1,100.0,5,0,0,3110,7.7,0,2,Monoparental,S?,No,0
+EST-0534,San Mart?n de Porres,5to,Femenino,17,15.2,81.8,13,1,0,1410,2.1,0,1,Biparental,S?,No,0
+EST-0535,Puente Piedra,1ro,Femenino,11,13.0,85.2,6,1,0,6040,3.9,0,4,Monoparental,S?,S?,1
+EST-0536,Carabayllo,3ro,Femenino,14,12.6,73.8,5,0,0,2840,4.1,0,2,Monoparental,No,No,0
+EST-0537,Los Olivos,1ro,Masculino,11,13.6,94.1,6,0,0,860,2.4,0,3,Biparental,No,No,0
+EST-0538,Carabayllo,5to,Femenino,16,12.4,77.4,7,3,1,2160,2.8,0,2,Extendida,S?,No,0
+EST-0539,Puente Piedra,2do,Femenino,14,11.7,91.7,8,0,0,3230,2.8,0,5,Biparental,S?,No,0
+EST-0540,Los Olivos,2do,Masculino,14,12.0,79.6,8,2,1,2730,1.7,0,3,Extendida,S?,No,0
+EST-0541,Los Olivos,4to,Femenino,15,11.9,78.9,5,0,0,5160,4.9,0,4,Monoparental,S?,No,0
+EST-0542,San Mart?n de Porres,4to,Femenino,15,11.7,74.3,9,2,0,1200,3.4,0,3,Monoparental,S?,No,0
+EST-0543,Puente Piedra,1ro,Femenino,12,10.6,75.0,9,2,0,890,5.8,0,2,Biparental,S?,No,0
+EST-0544,Carabayllo,1ro,Femenino,13,14.1,96.1,5,0,0,3470,7.7,22,3,Extendida,S?,S?,0
+EST-0545,Puente Piedra,1ro,Masculino,11,9.7,82.3,10,4,1,1680,3.5,28,4,Monoparental,S?,No,1
+EST-0546,Los Olivos,1ro,Femenino,11,11.6,71.5,6,0,0,1730,7.6,21,4,Monoparental,S?,S?,0
+EST-0547,Carabayllo,3ro,Masculino,15,14.6,86.9,4,0,0,3450,2.6,32,5,Biparental,S?,No,0
+EST-0548,Comas,3ro,Femenino,13,14.2,97.0,3,0,0,1230,1.1,0,4,Biparental,S?,S?,0
+EST-0549,Los Olivos,2do,Masculino,12,15.1,89.6,7,0,0,1000,3.7,0,5,Monoparental,S?,No,0
+EST-0550,San Mart?n de Porres,5to,Masculino,15,13.0,89.2,5,0,0,1120,2.2,0,2,Biparental,S?,No,0
+EST-0551,San Mart?n de Porres,3ro,Masculino,13,13.5,82.5,9,0,0,3170,6.0,0,3,Biparental,S?,No,0
+EST-0552,Carabayllo,4to,Femenino,15,14.1,85.8,4,0,0,1950,1.9,0,2,Monoparental,No,S?,0
+EST-0553,Independencia,1ro,Masculino,12,13.4,79.2,11,2,0,1390,3.2,9,3,Biparental,No,No,0
+EST-0554,San Mart?n de Porres,2do,Masculino,13,13.9,86.0,9,0,0,660,2.2,0,2,Biparental,S?,No,0
+EST-0555,Los Olivos,2do,Masculino,12,12.1,81.8,5,0,0,3120,2.2,29,4,Monoparental,S?,S?,0
+EST-0556,San Mart?n de Porres,2do,Masculino,12,11.1,71.7,9,3,1,1150,2.8,0,3,Biparental,No,No,0
+EST-0557,Los Olivos,4to,Masculino,16,12.0,89.0,9,1,0,3050,6.8,0,3,Biparental,S?,No,1
+EST-0558,Comas,1ro,Masculino,11,14.2,100.0,6,0,0,1660,4.0,0,4,Extendida,S?,S?,0
+EST-0559,Los Olivos,1ro,Masculino,13,14.7,82.0,4,0,0,2490,1.8,0,3,Monoparental,S?,No,0
+EST-0560,Los Olivos,4to,Femenino,15,11.5,87.8,5,0,0,1410,8.3,0,4,Monoparental,S?,S?,0
+EST-0561,San Mart?n de Porres,1ro,Femenino,12,10.9,100.0,7,0,0,2550,2.3,0,5,Monoparental,S?,No,0
+EST-0562,Comas,5to,Femenino,17,13.3,100.0,4,0,0,650,3.7,0,4,Biparental,S?,No,0
+EST-0563,Comas,1ro,Masculino,12,12.3,86.2,8,2,0,1360,3.8,0,3,Monoparental,S?,No,0
+EST-0564,Puente Piedra,4to,Femenino,14,13.6,88.5,4,2,0,2840,2.1,0,4,Monoparental,S?,No,0
+EST-0565,Independencia,2do,Femenino,13,15.3,91.1,10,0,0,4890,0.4,0,3,Biparental,S?,No,0
+EST-0566,Independencia,4to,Femenino,15,12.0,74.3,12,2,0,2760,5.2,0,2,Biparental,S?,S?,0
+EST-0567,San Mart?n de Porres,5to,Femenino,15,14.1,75.6,9,0,0,1420,1.1,0,2,Biparental,S?,No,0
+EST-0568,Puente Piedra,2do,Femenino,14,13.7,100.0,1,0,0,1470,13.4,0,4,Biparental,No,S?,0
+EST-0569,Puente Piedra,4to,Femenino,15,12.4,85.7,9,0,0,2220,7.9,0,4,Monoparental,S?,No,0
+EST-0570,San Mart?n de Porres,4to,Femenino,16,12.8,83.2,8,0,0,1070,12.3,25,5,Extendida,S?,No,0
+EST-0571,Puente Piedra,3ro,Femenino,13,13.4,81.8,8,1,0,3780,1.6,0,2,Extendida,S?,No,0
+EST-0572,San Mart?n de Porres,3ro,Masculino,14,12.1,76.9,6,1,0,6570,9.3,20,4,Monoparental,S?,No,0
+EST-0573,Los Olivos,2do,Masculino,13,12.8,96.2,8,0,0,1580,4.6,0,5,Biparental,S?,No,0
+EST-0574,Los Olivos,4to,Masculino,16,15.2,92.6,2,0,0,600,2.0,22,2,Biparental,No,S?,0
+EST-0575,Comas,5to,Masculino,15,14.1,82.6,6,0,0,1350,3.1,0,4,Monoparental,S?,No,0
+EST-0576,Comas,2do,Masculino,13,15.2,80.6,11,0,0,1880,1.2,0,4,Biparental,S?,S?,0
+EST-0577,Los Olivos,2do,Masculino,12,12.2,75.7,7,2,0,1530,1.6,0,3,Biparental,S?,No,1
+EST-0578,Anc?n,4to,Femenino,16,15.9,79.9,5,0,0,4220,3.6,0,1,Monoparental,S?,No,1
+EST-0579,Carabayllo,2do,Masculino,12,13.7,87.7,5,0,0,3720,9.0,0,2,Biparental,No,No,0
+EST-0580,Puente Piedra,2do,Femenino,12,14.2,89.2,8,0,0,1320,7.3,0,4,Monoparental,No,S?,0
+EST-0581,Puente Piedra,1ro,Femenino,12,11.8,98.4,4,1,0,4130,4.8,0,4,Monoparental,S?,No,0
+EST-0582,Anc?n,2do,Masculino,12,16.1,100.0,5,0,0,5430,11.0,0,3,Biparental,No,No,0
+EST-0583,Carabayllo,3ro,Masculino,15,12.9,81.5,11,0,0,820,3.1,0,3,Monoparental,S?,No,0
+EST-0584,Los Olivos,2do,Femenino,13,13.5,81.6,8,0,0,1840,3.1,23,5,Monoparental,S?,No,0
+EST-0585,Independencia,4to,Masculino,14,9.9,76.6,8,4,0,2260,2.1,0,3,Biparental,S?,S?,0
+EST-0586,Los Olivos,3ro,Femenino,15,12.0,82.6,10,0,0,4720,5.0,26,4,Biparental,S?,S?,0
+EST-0587,Carabayllo,2do,Masculino,12,13.5,93.7,8,0,0,880,7.0,0,4,Biparental,S?,No,0
+EST-0588,San Mart?n de Porres,2do,Masculino,14,14.8,92.5,11,0,0,1760,0.5,15,1,Extendida,No,No,0
+EST-0589,Comas,3ro,Masculino,15,14.8,90.1,6,0,0,1420,0.8,17,5,Biparental,S?,No,1
+EST-0590,Comas,4to,Masculino,15,13.3,83.1,4,0,0,1280,6.0,0,4,Biparental,S?,No,1
+EST-0591,Independencia,3ro,Femenino,15,13.6,74.3,13,0,0,1880,3.1,11,5,Biparental,S?,No,0
+EST-0592,Los Olivos,4to,Masculino,15,14.2,80.9,10,0,0,3210,0.7,15,2,Biparental,S?,S?,0
+EST-0593,Santa Rosa,2do,Femenino,12,15.1,85.7,10,0,0,3010,8.5,0,1,Extendida,S?,No,0
+EST-0594,Carabayllo,2do,Masculino,14,16.1,82.1,7,0,0,4450,4.3,0,4,Biparental,S?,No,0
+EST-0595,Carabayllo,5to,Masculino,16,15.3,72.2,10,0,0,1590,4.2,0,1,Monoparental,No,No,0
+EST-0596,Carabayllo,4to,Masculino,16,14.0,98.9,10,0,0,2290,6.6,0,2,Extendida,No,No,0
+EST-0597,Puente Piedra,5to,Masculino,17,14.2,79.7,6,0,0,2830,3.6,0,3,Biparental,S?,No,0
+EST-0598,Comas,4to,Femenino,15,12.0,78.8,7,1,0,4780,3.2,0,2,Monoparental,S?,No,0
+EST-0599,San Mart?n de Porres,5to,Femenino,15,12.1,96.1,7,1,0,1270,4.8,0,3,Biparental,S?,No,0
+EST-0600,Carabayllo,5to,Masculino,15,14.4,88.0,10,0,0,2130,2.7,0,3,Biparental,No,No,0
+EST-0601,Los Olivos,2do,Masculino,12,15.6,92.9,7,0,0,1220,3.7,12,3,Biparental,S?,S?,0
+EST-0602,Puente Piedra,5to,Masculino,15,14.9,94.4,7,0,0,2620,1.8,0,3,Monoparental,No,No,0
+EST-0603,Los Olivos,3ro,Masculino,15,12.6,100.0,9,1,0,880,4.9,0,5,Biparental,No,No,0
+EST-0604,Independencia,5to,Femenino,16,12.4,78.8,9,0,0,1080,7.0,30,3,Extendida,No,No,0
+EST-0605,San Mart?n de Porres,5to,Femenino,17,11.7,80.2,8,2,0,2130,5.6,17,3,Monoparental,S?,S?,0
+EST-0606,Los Olivos,5to,Masculino,15,9.8,66.8,7,3,0,1130,3.1,29,4,Monoparental,S?,No,1
+EST-0607,San Mart?n de Porres,5to,Masculino,17,11.8,73.1,7,1,0,2510,3.0,0,2,Biparental,No,S?,0
+EST-0608,Comas,5to,Masculino,15,13.5,80.5,5,1,1,1310,5.3,0,3,Monoparental,No,S?,0
+EST-0609,Los Olivos,4to,Femenino,15,13.9,94.2,4,0,0,570,3.6,0,5,Biparental,No,S?,0
+EST-0610,Los Olivos,5to,Femenino,16,11.4,85.8,6,1,1,1400,3.7,0,3,Biparental,S?,No,0
+EST-0611,San Mart?n de Porres,5to,Masculino,15,14.4,77.6,9,1,1,3830,5.1,19,5,Biparental,S?,No,1
+EST-0612,Carabayllo,5to,Femenino,16,12.9,87.9,7,0,0,2620,4.9,0,1,Biparental,S?,No,0
+EST-0613,Puente Piedra,3ro,Masculino,14,14.5,80.9,5,0,0,2870,2.7,0,3,Tutor/Otro,S?,No,0
+EST-0614,Puente Piedra,2do,Femenino,12,15.0,89.3,6,0,0,500,9.9,0,3,Biparental,No,No,0
+EST-0615,San Mart?n de Porres,1ro,Masculino,11,13.2,100.0,3,0,0,1570,1.1,0,4,Biparental,No,No,0
+EST-0616,Los Olivos,1ro,Masculino,12,11.2,82.4,4,2,0,2920,2.5,0,4,Biparental,S?,No,0
+EST-0617,Independencia,4to,Masculino,14,10.9,83.7,6,2,1,1810,6.0,20,4,Biparental,S?,No,0
+EST-0618,Puente Piedra,5to,Femenino,15,14.7,94.6,10,0,0,3300,3.6,0,2,Biparental,S?,No,0
+EST-0619,Comas,4to,Masculino,14,13.0,89.7,7,0,0,2770,3.0,0,2,Biparental,S?,No,0
+EST-0620,Anc?n,2do,Femenino,14,14.5,91.1,10,0,0,1540,11.6,0,4,Monoparental,No,No,0
+EST-0621,Puente Piedra,1ro,Femenino,11,13.1,68.0,7,1,0,3600,1.0,0,5,Biparental,S?,No,0
+EST-0622,San Mart?n de Porres,5to,Masculino,15,16.7,91.0,8,0,0,4860,2.4,0,4,Biparental,S?,No,0
+EST-0623,San Mart?n de Porres,1ro,Femenino,13,12.7,82.9,10,2,0,3220,1.8,0,5,Biparental,S?,No,1
+EST-0624,Independencia,5to,Masculino,15,12.4,90.1,7,2,1,3020,4.9,0,2,Biparental,S?,S?,0
+EST-0625,Puente Piedra,1ro,Femenino,12,13.6,93.1,2,0,1,1080,4.5,0,2,Biparental,No,S?,0
+EST-0626,Puente Piedra,4to,Masculino,16,12.0,80.8,7,1,1,2290,3.9,0,3,Biparental,S?,No,0
+EST-0627,Comas,5to,Femenino,17,12.0,82.7,5,0,0,2450,4.1,0,4,Biparental,S?,No,0
+EST-0628,Puente Piedra,2do,Masculino,13,13.0,83.8,10,0,0,1210,2.2,21,3,Biparental,S?,S?,0
+EST-0629,San Mart?n de Porres,1ro,Masculino,11,13.6,100.0,4,0,0,1740,6.2,0,2,Biparental,S?,No,0
+EST-0630,Comas,4to,Femenino,14,13.8,89.9,4,1,0,1460,5.0,0,4,Biparental,S?,No,0
+EST-0631,Comas,5to,Masculino,15,14.3,90.8,12,0,0,4130,7.2,0,3,Monoparental,S?,No,0
+EST-0632,Los Olivos,5to,Masculino,17,14.0,95.2,3,0,0,1190,2.1,0,2,Tutor/Otro,S?,No,0
+EST-0633,San Mart?n de Porres,3ro,Masculino,15,14.1,95.0,6,0,0,2360,4.0,0,2,Biparental,S?,No,0
+EST-0634,Los Olivos,1ro,Femenino,13,12.5,80.5,13,2,0,2050,1.5,0,4,Biparental,S?,No,1
+EST-0635,San Mart?n de Porres,1ro,Femenino,12,11.6,75.7,8,3,1,2830,6.1,0,3,Biparental,S?,No,0
+EST-0636,San Mart?n de Porres,5to,Masculino,15,14.6,100.0,3,0,0,2040,1.9,0,4,Biparental,S?,No,0
+EST-0637,Puente Piedra,3ro,Femenino,14,14.6,82.6,8,0,0,1280,3.2,6,3,Extendida,S?,No,0
+EST-0638,Puente Piedra,4to,Femenino,16,13.7,79.6,9,0,0,2400,0.8,0,3,Biparental,S?,No,0
+EST-0639,Carabayllo,5to,Femenino,17,13.9,94.7,5,1,0,6180,10.4,0,5,Biparental,S?,No,0
+EST-0640,Comas,5to,Femenino,16,11.8,81.2,5,2,0,2720,0.9,10,2,Extendida,S?,No,0
+EST-0641,San Mart?n de Porres,2do,Femenino,12,12.5,96.4,4,0,0,3750,1.4,0,5,Monoparental,S?,No,0
+EST-0642,Independencia,2do,Masculino,14,13.1,92.4,7,0,0,860,4.4,0,3,Monoparental,No,No,0
+EST-0643,Comas,4to,Femenino,15,12.6,92.9,3,0,0,5720,9.0,0,3,Monoparental,S?,No,0
+EST-0644,Carabayllo,5to,Femenino,17,12.4,86.5,7,0,0,4100,7.0,0,4,Biparental,No,No,0
+EST-0645,Comas,5to,Femenino,16,13.0,97.2,6,0,0,1980,2.0,0,4,Monoparental,S?,S?,0
+EST-0646,Los Olivos,1ro,Femenino,11,12.4,86.8,8,2,0,3110,2.6,0,3,Biparental,S?,No,0
+EST-0647,San Mart?n de Porres,5to,Femenino,17,14.2,88.8,10,0,0,5480,5.8,0,3,Biparental,S?,No,0
+EST-0648,Comas,4to,Femenino,15,13.1,83.0,9,1,0,2030,0.7,0,4,Biparental,S?,S?,0
+EST-0649,Puente Piedra,5to,Masculino,15,14.3,85.6,5,0,0,1140,9.0,0,5,Biparental,S?,S?,0
+EST-0650,Carabayllo,5to,Femenino,16,15.4,99.8,7,0,0,3320,4.2,0,5,Monoparental,S?,No,0
+EST-0651,San Mart?n de Porres,1ro,Masculino,12,11.7,94.0,6,2,1,1840,5.0,6,5,Monoparental,No,No,0
+EST-0652,San Mart?n de Porres,3ro,Masculino,14,15.0,77.6,11,0,0,2790,11.1,0,4,Biparental,S?,S?,0
+EST-0653,Los Olivos,1ro,Masculino,13,13.3,95.0,3,0,0,1760,3.9,25,3,Monoparental,No,No,0
+EST-0654,Independencia,1ro,Masculino,11,14.7,79.1,9,1,0,900,3.3,0,2,Biparental,S?,No,0
+EST-0655,San Mart?n de Porres,2do,Masculino,12,14.6,90.6,2,0,0,1610,0.2,0,3,Biparental,No,No,0
+EST-0656,Comas,5to,Femenino,15,14.0,90.0,6,0,0,2820,6.3,0,3,Monoparental,S?,No,0
+EST-0657,San Mart?n de Porres,4to,Femenino,15,14.2,96.1,4,0,0,1130,2.3,0,4,Biparental,No,No,0
+EST-0658,San Mart?n de Porres,3ro,Femenino,13,15.1,80.9,7,0,0,5200,0.6,0,1,Monoparental,S?,No,1
+EST-0659,San Mart?n de Porres,1ro,Masculino,11,13.8,60.7,9,1,0,680,3.8,22,3,Extendida,S?,No,1
+EST-0660,San Mart?n de Porres,2do,Femenino,12,13.2,87.0,6,1,0,1280,5.2,0,4,Monoparental,S?,No,0
+EST-0661,Los Olivos,1ro,Masculino,12,12.4,81.1,2,2,0,2430,16.9,0,4,Monoparental,S?,No,0
+EST-0662,Puente Piedra,5to,Femenino,17,13.1,81.6,9,1,0,2330,1.2,0,4,Biparental,S?,No,0
+EST-0663,Los Olivos,3ro,Masculino,14,11.4,90.2,8,2,0,3260,9.7,0,4,Biparental,S?,No,0
+EST-0664,Comas,5to,Masculino,16,14.0,100.0,5,0,0,2300,2.4,0,2,Biparental,S?,No,0
+EST-0665,Santa Rosa,1ro,Femenino,12,16.5,99.6,6,0,0,5150,8.7,0,5,Monoparental,No,No,0
+EST-0666,Anc?n,5to,Femenino,15,13.9,85.2,4,0,0,1610,6.1,0,4,Biparental,S?,No,0
+EST-0667,Comas,3ro,Femenino,13,13.0,85.2,4,0,0,2930,0.9,0,5,Biparental,S?,S?,0
+EST-0668,San Mart?n de Porres,4to,Femenino,14,12.9,78.6,6,0,0,1450,3.2,0,4,Extendida,No,No,0
+EST-0669,San Mart?n de Porres,4to,Femenino,16,13.2,86.2,9,2,0,3990,4.7,0,3,Biparental,S?,No,0
+EST-0670,Comas,2do,Femenino,13,13.8,90.9,6,0,0,1880,1.6,0,4,Biparental,S?,No,0
+EST-0671,Santa Rosa,3ro,Femenino,13,16.3,98.5,5,0,0,1780,9.7,0,3,Biparental,S?,No,0
+EST-0672,San Mart?n de Porres,3ro,Femenino,15,14.6,94.2,6,0,0,2090,2.4,0,2,Monoparental,No,No,0
+EST-0673,Puente Piedra,4to,Femenino,15,14.2,81.2,10,0,0,1270,3.4,0,1,Biparental,S?,No,1
+EST-0674,Los Olivos,3ro,Femenino,13,12.0,86.6,9,1,0,1710,1.4,0,2,Monoparental,S?,No,0
+EST-0675,Comas,3ro,Masculino,15,11.0,72.6,12,2,0,870,4.2,0,3,Biparental,No,No,1
+EST-0676,Anc?n,3ro,Femenino,14,12.1,70.0,14,0,0,1780,2.6,0,2,Extendida,No,S?,0
+EST-0677,Comas,2do,Femenino,13,14.8,80.6,9,0,0,2020,3.2,0,1,Biparental,No,No,0
+EST-0678,Comas,1ro,Masculino,12,14.3,95.0,9,0,0,3000,5.2,0,3,Biparental,S?,No,0
+EST-0679,Carabayllo,5to,Masculino,15,13.9,79.4,7,0,0,1660,6.5,0,4,Monoparental,S?,No,0
+EST-0680,Carabayllo,2do,Femenino,13,13.0,82.3,6,0,0,1030,4.9,0,3,Extendida,No,No,0
+EST-0681,Comas,2do,Femenino,14,15.1,92.1,6,0,0,2050,3.6,0,4,Biparental,No,No,0
+EST-0682,Independencia,2do,Femenino,12,14.0,83.3,6,0,0,1510,3.3,0,2,Biparental,S?,No,0
+EST-0683,Puente Piedra,4to,Masculino,16,16.3,86.8,7,0,0,1260,1.3,0,3,Biparental,S?,No,0
+EST-0684,Los Olivos,1ro,Femenino,12,15.1,89.8,8,0,0,5470,3.8,0,4,Extendida,S?,No,0
+EST-0685,Los Olivos,3ro,Masculino,15,13.5,87.7,7,0,0,1840,2.3,0,2,Monoparental,S?,No,0
+EST-0686,Puente Piedra,2do,Masculino,13,14.6,100.0,11,0,0,9000,2.3,0,3,Monoparental,S?,No,0
+EST-0687,San Mart?n de Porres,4to,Femenino,15,13.6,79.3,7,2,0,1720,6.7,24,3,Tutor/Otro,No,No,0
+EST-0688,Independencia,3ro,Femenino,14,13.9,89.8,6,1,1,1170,11.9,0,4,Monoparental,S?,No,0
+EST-0689,Los Olivos,2do,Masculino,14,12.7,75.4,5,1,0,1830,1.8,0,3,Monoparental,S?,S?,0
+EST-0690,San Mart?n de Porres,4to,Masculino,16,14.4,82.2,5,0,0,1330,1.1,0,1,Biparental,S?,No,0
+EST-0691,Carabayllo,4to,Femenino,14,13.8,80.7,7,1,1,3190,3.0,0,3,Biparental,S?,No,0
+EST-0692,Los Olivos,3ro,Masculino,14,14.4,84.7,9,0,0,1590,4.2,0,5,Biparental,S?,No,0
+EST-0693,Puente Piedra,4to,Masculino,15,12.2,84.0,6,1,0,2140,3.4,0,5,Biparental,S?,No,0
+EST-0694,Independencia,3ro,Femenino,14,13.0,96.7,7,0,0,3290,10.3,0,3,Extendida,No,S?,0
+EST-0695,Puente Piedra,3ro,Femenino,14,12.9,87.7,4,0,0,2000,2.8,23,2,Monoparental,No,No,0
+EST-0696,San Mart?n de Porres,1ro,Femenino,12,12.1,87.8,8,2,0,2360,1.5,0,2,Monoparental,S?,No,0
+EST-0697,Puente Piedra,3ro,Femenino,13,14.7,82.0,10,1,0,1530,0.6,0,3,Monoparental,S?,No,0
+EST-0698,Los Olivos,2do,Masculino,14,14.7,90.7,7,0,0,3550,3.0,0,3,Monoparental,No,No,0
+EST-0699,Puente Piedra,5to,Masculino,15,15.5,89.3,4,0,0,5370,4.7,32,4,Biparental,S?,No,0
+EST-0700,Puente Piedra,2do,Masculino,12,11.7,84.3,12,1,0,1890,1.1,14,5,Biparental,S?,No,0
+EST-0701,Comas,1ro,Femenino,11,13.6,88.5,4,0,0,1240,5.1,0,3,Tutor/Otro,No,No,0
+EST-0702,Anc?n,1ro,Masculino,13,14.2,85.9,6,1,0,2280,3.5,0,5,Biparental,S?,S?,0
+EST-0703,San Mart?n de Porres,1ro,Femenino,12,9.0,86.3,9,2,0,5570,1.3,16,4,Biparental,S?,No,1
+EST-0704,Independencia,2do,Femenino,13,12.5,81.8,7,2,0,1910,2.1,0,3,Biparental,S?,No,0
+EST-0705,Comas,2do,Femenino,13,12.3,80.8,12,1,0,4800,4.1,0,2,Biparental,S?,No,0
+EST-0706,Comas,3ro,Masculino,13,15.4,76.4,7,1,0,1320,3.6,0,3,Biparental,S?,No,0
+EST-0707,Comas,1ro,Masculino,12,12.3,79.4,10,0,0,1950,3.0,27,5,Extendida,S?,No,1
+EST-0708,Los Olivos,2do,Femenino,14,13.5,95.3,6,0,0,3790,2.6,0,3,Biparental,S?,No,0
+EST-0709,Los Olivos,5to,Femenino,17,10.1,77.5,8,4,1,2500,6.5,0,5,Biparental,No,No,0
+EST-0710,Comas,2do,Femenino,14,15.9,82.8,11,0,0,1680,4.4,0,2,Biparental,S?,No,0
+EST-0711,Carabayllo,5to,Masculino,15,11.9,92.8,5,2,0,5630,4.1,0,5,Biparental,S?,No,0
+EST-0712,Santa Rosa,4to,Masculino,15,11.8,91.8,6,1,1,2100,3.4,0,3,Biparental,S?,No,0
+EST-0713,Anc?n,1ro,Femenino,12,12.8,83.3,9,0,0,2300,1.9,23,2,Extendida,S?,No,1
+EST-0714,San Mart?n de Porres,2do,Masculino,14,13.3,90.1,3,0,0,1870,1.7,0,3,Biparental,S?,S?,0
+EST-0715,Anc?n,1ro,Masculino,12,14.0,85.0,8,0,0,1350,4.2,0,3,Extendida,S?,No,0
+EST-0716,Los Olivos,2do,Masculino,12,12.3,70.6,6,2,0,2380,3.0,21,1,Extendida,S?,No,1
+EST-0717,Puente Piedra,3ro,Masculino,15,15.0,99.1,9,0,0,4350,9.7,0,2,Tutor/Otro,S?,No,0
+EST-0718,Puente Piedra,4to,Femenino,14,14.7,82.1,13,0,0,2000,14.5,0,1,Biparental,S?,No,0
+EST-0719,Puente Piedra,2do,Femenino,14,14.3,79.6,5,1,0,4260,1.7,28,5,Biparental,S?,No,0
+EST-0720,Carabayllo,4to,Femenino,15,13.4,91.0,4,0,0,1330,6.5,0,4,Biparental,S?,No,0
+EST-0721,San Mart?n de Porres,3ro,Femenino,15,9.7,92.6,7,1,1,2400,15.0,0,3,Monoparental,S?,No,0
+EST-0722,Puente Piedra,4to,Femenino,15,13.7,100.0,2,0,0,3080,6.6,0,2,Biparental,S?,No,0
+EST-0723,San Mart?n de Porres,2do,Masculino,14,13.6,78.9,8,0,1,2840,1.7,0,5,Extendida,S?,No,0
+EST-0724,Santa Rosa,3ro,Femenino,13,12.7,76.6,9,0,0,1940,5.7,0,2,Biparental,S?,No,0
+EST-0725,Puente Piedra,1ro,Masculino,12,13.8,94.1,7,0,0,740,10.2,0,4,Biparental,S?,No,0
+EST-0726,Puente Piedra,1ro,Femenino,13,13.5,77.4,7,1,0,1970,7.3,0,5,Monoparental,S?,No,0
+EST-0727,San Mart?n de Porres,4to,Femenino,16,16.2,100.0,6,0,0,3510,5.3,0,4,Monoparental,S?,No,0
+EST-0728,Puente Piedra,5to,Femenino,17,12.6,87.9,4,1,0,3040,1.6,24,3,Biparental,S?,No,0
+EST-0729,Los Olivos,1ro,Femenino,11,14.1,94.2,6,0,0,2020,2.4,0,4,Biparental,S?,No,0
+EST-0730,Los Olivos,4to,Masculino,15,14.1,93.1,4,0,0,4530,1.6,0,3,Biparental,S?,No,0
+EST-0731,Los Olivos,1ro,Masculino,11,14.7,90.0,6,0,0,1180,2.8,0,5,Biparental,No,No,0
+EST-0732,Los Olivos,5to,Masculino,15,14.8,79.2,5,0,0,2700,7.0,11,2,Biparental,No,No,0
+EST-0733,Los Olivos,1ro,Masculino,13,16.0,78.2,13,0,0,5350,2.2,0,5,Extendida,S?,No,0
+EST-0734,Anc?n,1ro,Masculino,11,14.5,94.5,6,0,0,5110,5.5,0,4,Biparental,S?,No,0
+EST-0735,Carabayllo,5to,Masculino,17,12.1,78.9,10,0,0,6350,7.0,0,3,Extendida,S?,No,0
+EST-0736,Independencia,1ro,Femenino,13,13.4,71.9,8,0,0,1080,1.1,0,5,Biparental,S?,No,0
+EST-0737,Comas,1ro,Femenino,13,10.0,88.9,5,3,0,1710,5.5,0,4,Biparental,S?,No,0
+EST-0738,Puente Piedra,5to,Femenino,17,10.2,90.1,10,1,0,2330,4.8,0,3,Biparental,S?,S?,0
+EST-0739,Santa Rosa,1ro,Femenino,13,10.6,67.7,12,2,0,3350,1.7,19,2,Biparental,S?,No,0
+EST-0740,Comas,2do,Masculino,14,13.7,84.8,7,0,0,1110,4.8,0,2,Monoparental,S?,No,0
+EST-0741,San Mart?n de Porres,5to,Masculino,15,11.7,71.5,10,2,0,2520,8.1,0,2,Biparental,No,No,0
+EST-0742,Comas,5to,Masculino,16,15.8,90.9,5,0,0,1350,1.2,0,3,Extendida,S?,No,0
+EST-0743,Puente Piedra,1ro,Femenino,13,15.7,79.9,4,1,0,2020,0.3,0,3,Monoparental,S?,S?,0
+EST-0744,Carabayllo,4to,Masculino,14,14.9,90.6,9,0,0,880,0.7,0,5,Biparental,S?,No,0
+EST-0745,Los Olivos,5to,Femenino,15,13.7,94.0,6,0,0,3030,17.3,0,3,Biparental,S?,No,0
+EST-0746,Los Olivos,2do,Femenino,13,13.7,100.0,2,0,0,740,0.6,0,3,Biparental,S?,No,0
+EST-0747,San Mart?n de Porres,3ro,Masculino,15,12.7,80.7,3,1,0,2650,3.1,26,3,Monoparental,S?,S?,0
+EST-0748,Carabayllo,4to,Masculino,14,14.7,80.7,10,1,0,1070,8.1,29,5,Biparental,S?,No,0
+EST-0749,Los Olivos,2do,Masculino,14,11.0,80.9,7,4,0,1370,3.4,11,2,Monoparental,S?,No,1
+EST-0750,San Mart?n de Porres,2do,Femenino,14,13.0,87.8,6,0,0,2960,3.2,0,4,Biparental,S?,No,0
+EST-0751,Puente Piedra,2do,Femenino,12,14.3,89.0,6,0,0,2520,3.2,0,3,Extendida,S?,No,0
+EST-0752,Carabayllo,5to,Femenino,15,14.7,96.3,7,0,0,1070,3.1,0,3,Extendida,No,No,0
+EST-0753,San Mart?n de Porres,1ro,Femenino,11,12.8,92.4,6,1,0,560,2.4,0,3,Monoparental,S?,S?,0
+EST-0754,Comas,4to,Femenino,14,13.6,87.7,7,0,0,2360,2.3,0,3,Biparental,S?,No,0
+EST-0755,Carabayllo,3ro,Masculino,15,13.3,81.2,6,1,0,2370,2.4,11,2,Biparental,S?,No,0
+EST-0756,Carabayllo,4to,Masculino,14,12.3,89.2,5,0,0,920,5.5,15,4,Biparental,S?,S?,0
+EST-0757,Puente Piedra,4to,Masculino,15,14.6,82.9,12,0,0,5680,6.5,0,5,Biparental,S?,No,0
+EST-0758,San Mart?n de Porres,2do,Femenino,13,13.3,83.3,7,1,0,3430,3.8,0,4,Biparental,S?,No,0
+EST-0759,San Mart?n de Porres,3ro,Masculino,15,15.1,80.0,7,0,0,930,1.2,0,5,Biparental,S?,S?,0
+EST-0760,Puente Piedra,1ro,Masculino,12,13.2,76.6,6,0,0,3460,3.2,0,3,Biparental,S?,No,0
+EST-0761,San Mart?n de Porres,3ro,Masculino,13,13.9,74.9,7,0,0,1000,8.8,29,1,Extendida,S?,No,0
+EST-0762,San Mart?n de Porres,3ro,Femenino,14,13.6,93.8,4,0,0,5020,2.0,0,2,Extendida,S?,No,0
+EST-0763,Los Olivos,5to,Femenino,17,14.3,83.4,10,0,0,5370,5.3,0,4,Monoparental,S?,No,0
+EST-0764,Los Olivos,4to,Femenino,14,10.8,89.0,10,2,0,5630,5.1,0,1,Biparental,S?,No,0
+EST-0765,San Mart?n de Porres,2do,Femenino,14,13.8,98.5,8,0,0,1050,2.4,0,3,Biparental,No,No,0
+EST-0766,Los Olivos,5to,Masculino,15,12.3,87.3,5,0,0,1740,0.6,0,4,Extendida,S?,No,0
+EST-0767,Comas,3ro,Femenino,14,15.5,97.4,6,0,0,1040,1.4,14,4,Biparental,S?,No,0
+EST-0768,San Mart?n de Porres,2do,Femenino,13,14.9,92.3,7,0,0,1230,3.8,0,2,Biparental,No,No,0
+EST-0769,Anc?n,4to,Masculino,14,13.9,79.3,8,0,0,6580,5.3,0,3,Biparental,S?,No,1
+EST-0770,Los Olivos,3ro,Femenino,13,10.4,81.7,5,3,1,2280,2.8,0,3,Biparental,No,No,1
+EST-0771,San Mart?n de Porres,5to,Masculino,15,13.5,83.1,10,0,0,1850,2.9,13,4,Extendida,S?,No,0
+EST-0772,Puente Piedra,5to,Masculino,17,13.6,93.5,4,0,0,1910,2.6,17,3,Tutor/Otro,No,No,0
+EST-0773,Los Olivos,1ro,Masculino,11,12.2,85.9,7,2,0,1330,0.8,0,1,Biparental,S?,No,0
+EST-0774,Independencia,2do,Masculino,14,14.3,90.2,4,0,0,1560,0.9,0,5,Monoparental,S?,No,0
+EST-0775,Comas,3ro,Masculino,13,15.0,80.3,5,1,0,2820,2.4,0,4,Biparental,S?,No,0
+EST-0776,Los Olivos,4to,Femenino,15,11.6,72.7,7,1,1,1780,1.6,0,3,Monoparental,S?,No,0
+EST-0777,Puente Piedra,4to,Masculino,14,15.5,93.1,4,0,0,1710,1.2,0,3,Extendida,No,No,0
+EST-0778,Los Olivos,5to,Femenino,17,13.2,69.6,6,2,0,1900,0.8,0,4,Monoparental,S?,S?,0
+EST-0779,Puente Piedra,1ro,Femenino,11,14.6,98.9,5,0,0,2230,4.9,0,4,Biparental,S?,No,0
+EST-0780,San Mart?n de Porres,4to,Masculino,14,13.5,98.8,3,0,0,1920,0.9,0,4,Biparental,S?,S?,0
+EST-0781,Los Olivos,5to,Masculino,15,15.0,83.5,7,0,0,1600,3.6,0,2,Extendida,S?,No,0
+EST-0782,Puente Piedra,1ro,Masculino,11,11.5,79.6,7,2,0,1660,6.7,0,1,Extendida,S?,S?,0
+EST-0783,San Mart?n de Porres,4to,Masculino,15,14.8,88.6,4,0,0,2710,4.0,0,5,Monoparental,S?,No,1
+EST-0784,Los Olivos,4to,Femenino,14,13.0,86.1,2,0,0,1750,9.6,0,4,Extendida,S?,No,0
+EST-0785,Comas,1ro,Femenino,12,12.9,85.8,13,1,0,1880,12.4,0,4,Biparental,No,No,0
+EST-0786,Puente Piedra,1ro,Masculino,12,12.3,76.8,8,0,0,1450,2.0,18,5,Biparental,S?,No,0
+EST-0787,San Mart?n de Porres,1ro,Masculino,12,12.7,90.1,5,0,0,2000,4.8,0,3,Tutor/Otro,No,No,0
+EST-0788,San Mart?n de Porres,2do,Femenino,12,16.6,96.4,7,0,0,2820,5.6,0,4,Biparental,S?,No,0
+EST-0789,Anc?n,4to,Femenino,16,12.1,78.3,9,0,0,770,3.1,8,1,Biparental,S?,No,0
+EST-0790,Los Olivos,5to,Masculino,17,16.5,77.3,10,0,0,2340,2.8,0,3,Biparental,No,No,0
+EST-0791,Carabayllo,4to,Masculino,15,13.8,86.8,9,0,0,3000,10.0,0,3,Biparental,S?,No,0
+EST-0792,Independencia,4to,Masculino,16,12.2,93.1,1,0,0,2140,5.2,0,4,Biparental,No,No,0
+EST-0793,Independencia,2do,Femenino,13,13.4,100.0,2,0,0,1490,2.5,0,3,Monoparental,S?,No,0
+EST-0794,Carabayllo,2do,Femenino,14,13.3,92.9,6,0,0,3570,6.3,0,5,Monoparental,S?,No,0
+EST-0795,Santa Rosa,3ro,Femenino,15,12.5,83.0,10,0,0,3610,4.2,14,0,Biparental,No,No,0
+EST-0796,Puente Piedra,4to,Femenino,16,11.3,90.7,7,0,0,1280,6.1,0,4,Biparental,S?,No,0
+EST-0797,Comas,5to,Femenino,16,12.4,73.9,6,1,0,2710,2.1,8,1,Extendida,No,No,1
+EST-0798,Puente Piedra,3ro,Masculino,14,15.1,76.4,10,1,1,2390,3.3,0,4,Extendida,S?,No,1
+EST-0799,Comas,5to,Femenino,17,9.1,70.0,8,1,0,680,0.4,31,4,Biparental,S?,No,1
+EST-0800,Comas,5to,Masculino,17,13.4,85.6,8,0,0,2530,2.4,0,3,Extendida,S?,No,0
+EST-0801,Puente Piedra,5to,Masculino,15,14.0,88.2,7,0,0,970,13.7,15,3,Monoparental,S?,No,0
+EST-0802,Puente Piedra,4to,Masculino,15,13.6,83.7,4,0,0,2140,7.1,0,3,Biparental,S?,No,0
+EST-0803,Puente Piedra,2do,Masculino,14,14.6,84.2,8,0,0,930,1.8,0,4,Monoparental,S?,No,0
+EST-0804,Comas,5to,Masculino,15,12.4,84.6,9,2,0,2800,4.1,0,3,Biparental,S?,No,0
+EST-0805,Carabayllo,4to,Femenino,14,13.8,80.8,7,1,0,7750,15.7,0,4,Biparental,S?,No,0
+EST-0806,Independencia,4to,Masculino,15,13.3,80.5,5,1,0,1480,1.5,10,3,Biparental,S?,No,0
+EST-0807,Puente Piedra,2do,Masculino,14,14.1,92.9,10,0,0,1240,1.7,0,4,Monoparental,S?,No,0
+EST-0808,San Mart?n de Porres,1ro,Femenino,11,10.4,90.7,6,1,1,860,0.3,0,4,Monoparental,S?,No,0
+EST-0809,San Mart?n de Porres,5to,Masculino,16,13.4,76.4,9,0,0,1190,3.0,0,4,Extendida,No,S?,0
+EST-0810,Santa Rosa,3ro,Masculino,13,16.7,92.5,6,0,0,3730,7.1,0,4,Extendida,S?,No,0
+EST-0811,Comas,3ro,Femenino,14,14.1,89.9,9,0,0,2150,3.5,0,4,Biparental,S?,No,0
+EST-0812,San Mart?n de Porres,1ro,Masculino,13,11.4,80.3,10,3,0,810,1.7,0,4,Extendida,No,No,0
+EST-0813,Santa Rosa,5to,Masculino,15,16.0,77.0,10,0,0,1830,2.6,0,3,Biparental,S?,No,0
+EST-0814,Comas,2do,Femenino,13,14.7,100.0,10,0,0,1690,2.9,0,3,Biparental,No,No,0
+EST-0815,Anc?n,1ro,Femenino,12,14.4,83.0,7,0,0,2930,8.1,0,2,Biparental,S?,No,0
+EST-0816,Carabayllo,2do,Masculino,13,12.1,75.9,7,3,1,1590,6.7,0,4,Biparental,S?,No,0
+EST-0817,Puente Piedra,1ro,Masculino,11,8.7,80.6,8,3,0,2610,3.3,26,2,Extendida,S?,No,1
+EST-0818,Puente Piedra,3ro,Femenino,14,14.7,100.0,5,0,0,1980,10.4,0,3,Biparental,No,No,0
+EST-0819,Comas,4to,Masculino,16,14.1,87.4,8,0,0,820,6.3,8,3,Biparental,No,S?,1
+EST-0820,San Mart?n de Porres,2do,Femenino,12,17.0,96.6,7,0,0,1180,1.0,0,4,Monoparental,S?,No,0
+EST-0821,Comas,1ro,Femenino,13,14.5,79.9,7,1,0,4320,2.0,15,4,Extendida,S?,S?,0
+EST-0822,Puente Piedra,2do,Femenino,13,15.8,100.0,9,0,0,2560,1.7,0,4,Biparental,S?,No,0
+EST-0823,Carabayllo,1ro,Femenino,13,11.8,76.1,10,1,0,2330,9.5,0,4,Extendida,S?,No,0
+EST-0824,Puente Piedra,5to,Femenino,16,13.8,88.8,3,0,0,2070,5.9,0,2,Monoparental,S?,No,0
+EST-0825,Anc?n,3ro,Masculino,15,11.7,78.2,8,1,0,850,2.7,13,3,Biparental,S?,No,0
+EST-0826,Los Olivos,1ro,Masculino,11,12.6,84.2,10,3,0,1800,1.3,0,3,Monoparental,No,No,0
+EST-0827,Comas,3ro,Masculino,13,15.2,95.3,5,0,0,2660,2.9,0,4,Biparental,S?,No,0
+EST-0828,Puente Piedra,3ro,Masculino,15,16.0,100.0,6,0,0,3150,1.6,0,2,Monoparental,S?,No,0
+EST-0829,San Mart?n de Porres,4to,Masculino,16,13.8,87.9,9,0,0,3750,8.7,0,3,Biparental,S?,No,0
+EST-0830,Comas,4to,Femenino,16,9.6,76.7,8,3,1,2610,7.5,18,3,Biparental,No,No,0
+EST-0831,San Mart?n de Porres,4to,Masculino,16,14.2,85.4,7,1,0,2920,1.3,0,2,Biparental,No,No,0
+EST-0832,Independencia,1ro,Masculino,12,15.5,92.3,7,0,0,1550,3.9,0,3,Biparental,S?,S?,0
+EST-0833,Comas,1ro,Masculino,13,14.0,89.3,2,0,0,4630,8.7,0,5,Tutor/Otro,S?,No,0
+EST-0834,Carabayllo,3ro,Femenino,13,13.4,82.4,11,0,0,1240,1.0,0,2,Monoparental,S?,No,0
+EST-0835,Anc?n,2do,Femenino,14,12.4,68.0,9,2,1,2550,2.3,0,2,Monoparental,S?,No,0
+EST-0836,Carabayllo,2do,Femenino,12,14.4,89.7,4,1,0,1840,3.6,0,4,Biparental,S?,No,0
+EST-0837,San Mart?n de Porres,5to,Masculino,15,15.2,89.9,9,0,0,4270,2.6,0,3,Monoparental,S?,No,0
+EST-0838,Anc?n,5to,Femenino,16,12.9,74.0,12,2,0,1970,0.7,0,5,Biparental,S?,No,0
+EST-0839,Puente Piedra,4to,Femenino,16,15.4,84.1,6,0,0,3200,3.7,0,2,Biparental,No,S?,0
+EST-0840,Los Olivos,1ro,Femenino,13,14.6,71.0,11,0,0,1440,6.7,17,4,Tutor/Otro,S?,No,0
+EST-0841,Los Olivos,2do,Masculino,12,13.3,96.1,6,1,0,4120,6.6,0,4,Monoparental,S?,No,0
+EST-0842,Independencia,1ro,Masculino,11,13.2,90.6,8,1,0,3640,9.1,33,2,Biparental,S?,No,0
+EST-0843,Carabayllo,2do,Femenino,13,13.3,82.5,9,1,0,5080,5.7,0,4,Monoparental,S?,No,0
+EST-0844,Carabayllo,3ro,Masculino,15,14.1,73.9,6,0,0,1830,3.8,14,5,Biparental,S?,No,0
+EST-0845,Puente Piedra,2do,Femenino,12,12.2,92.6,7,0,0,3560,3.3,22,4,Monoparental,S?,No,1
+EST-0846,San Mart?n de Porres,4to,Femenino,15,13.3,90.2,12,0,0,3190,5.6,0,4,Biparental,S?,No,0
+EST-0847,Independencia,1ro,Masculino,12,12.9,99.7,4,0,0,4090,2.0,0,3,Extendida,S?,No,0
+EST-0848,Comas,5to,Femenino,17,13.9,86.1,3,0,0,3250,0.7,0,2,Extendida,S?,No,0
+EST-0849,San Mart?n de Porres,1ro,Femenino,11,14.1,88.3,8,0,0,2410,0.8,0,2,Monoparental,S?,No,0
+EST-0850,Anc?n,3ro,Masculino,15,14.3,89.4,8,0,0,4130,4.0,0,3,Biparental,S?,No,0
+EST-0851,Los Olivos,3ro,Masculino,15,13.5,85.7,10,2,0,500,5.0,0,4,Biparental,No,S?,0
+EST-0852,San Mart?n de Porres,5to,Femenino,16,13.4,90.5,8,0,0,1820,2.4,0,3,Biparental,S?,No,0
+EST-0853,Independencia,1ro,Masculino,12,15.3,81.6,9,0,0,1360,3.5,0,5,Biparental,No,No,0
+EST-0854,Comas,4to,Masculino,14,12.3,87.4,5,1,0,4110,1.9,19,2,Biparental,S?,No,0
+EST-0855,Comas,5to,Masculino,16,13.4,94.7,3,0,0,1970,0.9,0,2,Monoparental,No,No,0
+EST-0856,Los Olivos,5to,Femenino,16,11.8,91.2,7,1,0,3300,4.5,0,3,Biparental,S?,S?,0
+EST-0857,San Mart?n de Porres,4to,Femenino,16,12.7,83.6,7,3,1,2370,6.1,0,3,Biparental,S?,S?,0
+EST-0858,Puente Piedra,5to,Masculino,16,11.0,74.5,8,3,0,4000,13.7,0,5,Extendida,S?,No,0
+EST-0859,Comas,1ro,Femenino,11,12.9,79.9,12,2,0,3460,3.8,0,4,Biparental,No,No,0
+EST-0860,Comas,5to,Femenino,16,12.5,84.0,7,1,0,2200,2.6,0,3,Tutor/Otro,S?,No,0
+EST-0861,Los Olivos,2do,Masculino,14,10.9,74.1,4,2,0,2910,4.7,35,2,Biparental,S?,No,0
+EST-0862,Los Olivos,1ro,Femenino,12,15.5,81.4,7,0,0,2210,7.1,0,4,Biparental,S?,No,0
+EST-0863,Carabayllo,1ro,Femenino,11,14.0,92.5,6,0,0,1720,4.7,6,5,Biparental,S?,No,0
+EST-0864,Los Olivos,5to,Femenino,15,13.0,79.6,4,1,0,2900,4.9,32,3,Monoparental,S?,No,0
+EST-0865,Puente Piedra,2do,Masculino,12,11.8,87.2,4,1,1,5200,1.3,0,2,Extendida,S?,S?,1
+EST-0866,Carabayllo,4to,Masculino,15,13.7,91.9,8,0,0,3540,2.4,0,2,Biparental,S?,No,0
+EST-0867,Puente Piedra,3ro,Masculino,14,12.2,85.6,6,1,1,1430,1.0,0,3,Monoparental,S?,No,0
+EST-0868,Carabayllo,1ro,Masculino,11,11.0,92.8,6,0,0,3520,1.1,0,4,Biparental,S?,No,0
+EST-0869,Carabayllo,5to,Femenino,15,13.7,100.0,8,0,0,1410,5.0,0,3,Biparental,S?,No,0
+EST-0870,Los Olivos,1ro,Femenino,13,12.5,91.3,5,0,0,500,0.6,0,3,Biparental,S?,No,0
+EST-0871,Puente Piedra,1ro,Femenino,12,16.6,92.2,6,0,0,1290,2.5,0,3,Biparental,S?,No,0
+EST-0872,Los Olivos,1ro,Femenino,11,13.7,100.0,3,0,0,2390,6.9,0,5,Biparental,S?,S?,0
+EST-0873,Los Olivos,3ro,Femenino,13,15.1,78.7,10,0,0,980,4.7,0,2,Biparental,S?,No,0
+EST-0874,Carabayllo,3ro,Femenino,13,15.6,89.4,8,0,0,2420,8.3,0,3,Monoparental,S?,No,0
+EST-0875,Los Olivos,4to,Femenino,15,13.2,86.7,9,0,0,4150,2.2,0,5,Biparental,S?,No,0
+EST-0876,Los Olivos,1ro,Femenino,12,13.0,83.6,9,0,0,2080,3.0,0,5,Biparental,S?,No,0
+EST-0877,Anc?n,5to,Femenino,15,13.3,100.0,2,0,0,2770,2.8,0,3,Biparental,S?,S?,0
+EST-0878,Puente Piedra,3ro,Masculino,15,14.2,89.3,9,0,0,1860,8.0,0,3,Tutor/Otro,No,S?,0
+EST-0879,Carabayllo,5to,Masculino,15,15.5,89.7,9,0,0,590,3.9,0,5,Biparental,S?,S?,0
+EST-0880,Independencia,1ro,Masculino,13,12.0,79.6,4,1,1,2490,0.5,0,5,Biparental,S?,S?,0
+EST-0881,Independencia,2do,Masculino,13,11.5,82.5,7,2,0,1430,1.1,27,2,Biparental,S?,No,0
+EST-0882,Puente Piedra,1ro,Femenino,12,15.2,82.7,7,0,0,2540,0.7,29,2,Monoparental,S?,No,0
+EST-0883,San Mart?n de Porres,3ro,Femenino,13,10.9,89.1,6,0,0,740,5.5,0,3,Biparental,S?,No,0
+EST-0884,Puente Piedra,1ro,Femenino,12,16.1,96.6,5,0,0,2390,2.1,0,2,Monoparental,S?,S?,0
+EST-0885,Carabayllo,3ro,Femenino,13,16.4,92.2,3,0,0,2910,0.7,0,3,Monoparental,S?,No,0
+EST-0886,Comas,1ro,Femenino,11,13.5,85.2,7,0,0,4670,6.7,0,4,Biparental,S?,No,0
+EST-0887,Independencia,3ro,Femenino,13,10.8,75.4,7,2,0,2460,8.2,0,1,Extendida,S?,No,1
+EST-0888,Comas,5to,Masculino,17,12.1,84.7,3,1,0,1050,6.4,26,4,Extendida,S?,No,0
+EST-0889,Puente Piedra,1ro,Masculino,11,15.1,83.1,9,0,0,2210,4.3,0,4,Biparental,S?,No,0
+EST-0890,Los Olivos,4to,Femenino,14,16.8,95.2,4,0,0,740,7.0,0,3,Biparental,S?,No,0
+EST-0891,Independencia,3ro,Femenino,15,14.2,70.7,8,0,0,770,4.0,0,4,Monoparental,No,No,0
+EST-0892,Los Olivos,4to,Masculino,14,13.9,79.1,4,1,0,2500,1.1,0,3,Biparental,S?,No,0
+EST-0893,Comas,1ro,Masculino,13,13.4,98.2,8,0,0,2970,0.3,0,3,Extendida,S?,No,0
+EST-0894,San Mart?n de Porres,5to,Femenino,15,12.8,84.9,8,0,0,2460,6.1,0,1,Tutor/Otro,S?,No,1
+EST-0895,Puente Piedra,4to,Femenino,16,14.6,82.3,7,0,0,4220,4.0,0,0,Biparental,S?,No,1
+EST-0896,Puente Piedra,3ro,Femenino,15,16.0,86.7,4,0,0,3410,3.2,0,2,Monoparental,S?,No,0
+EST-0897,Santa Rosa,1ro,Femenino,13,11.6,84.9,8,2,1,3000,6.8,0,3,Biparental,S?,No,0
+EST-0898,Puente Piedra,5to,Masculino,15,13.6,91.0,4,0,0,880,1.0,0,3,Monoparental,S?,No,1
+EST-0899,Puente Piedra,2do,Femenino,14,15.5,100.0,4,0,0,1480,7.3,0,3,Biparental,S?,No,0
+EST-0900,Puente Piedra,4to,Masculino,16,12.7,84.0,8,0,0,2390,7.7,10,3,Biparental,No,S?,0
+EST-0901,Los Olivos,1ro,Femenino,13,15.9,84.2,5,0,0,980,2.6,0,3,Tutor/Otro,S?,No,0
+EST-0902,San Mart?n de Porres,3ro,Femenino,15,14.8,80.4,9,0,0,1110,7.9,0,3,Biparental,No,S?,0
+EST-0903,Independencia,1ro,Masculino,13,11.7,86.1,4,1,0,940,0.9,0,2,Extendida,No,S?,0
+EST-0904,Comas,4to,Masculino,16,14.0,78.3,10,1,0,1500,1.8,0,1,Biparental,No,No,0
+EST-0905,Carabayllo,5to,Masculino,16,15.9,95.1,2,0,0,2390,1.3,0,4,Extendida,S?,No,0
+EST-0906,San Mart?n de Porres,3ro,Masculino,13,13.0,80.2,8,2,1,4180,1.9,34,2,Biparental,S?,No,1
+EST-0907,Carabayllo,5to,Femenino,15,13.8,72.8,6,1,0,2220,1.8,6,5,Biparental,No,No,0
+EST-0908,San Mart?n de Porres,1ro,Masculino,13,12.5,96.8,5,0,0,1790,2.5,0,2,Biparental,S?,No,0
+EST-0909,Comas,1ro,Femenino,12,10.4,83.5,6,2,0,1220,3.6,0,3,Monoparental,S?,S?,1
+EST-0910,Santa Rosa,1ro,Femenino,13,14.9,82.4,8,0,0,4470,2.7,0,4,Biparental,S?,No,1
+EST-0911,Carabayllo,1ro,Masculino,13,16.4,84.6,7,0,0,2500,3.4,0,3,Biparental,S?,S?,0
+EST-0912,Comas,5to,Femenino,17,14.2,80.3,10,0,0,3230,6.1,0,2,Monoparental,S?,No,0
+EST-0913,Puente Piedra,3ro,Masculino,14,12.8,91.6,5,2,0,1220,3.4,0,3,Monoparental,S?,No,0
+EST-0914,Comas,2do,Femenino,12,13.9,89.1,3,0,0,1090,2.5,0,4,Biparental,S?,No,0
+EST-0915,Independencia,2do,Masculino,14,11.9,86.7,6,2,0,2490,3.4,0,3,Monoparental,S?,No,0
+EST-0916,Carabayllo,5to,Masculino,15,12.7,100.0,4,0,0,2300,8.4,0,3,Biparental,No,No,0
+EST-0917,Carabayllo,3ro,Femenino,15,14.0,79.7,7,0,0,4250,4.0,33,3,Extendida,S?,No,0
+EST-0918,San Mart?n de Porres,3ro,Femenino,14,10.3,92.8,4,1,0,1510,11.0,0,5,Extendida,S?,No,0
+EST-0919,Los Olivos,2do,Femenino,13,13.9,80.9,10,1,0,1890,3.4,0,2,Biparental,No,No,0
+EST-0920,Puente Piedra,1ro,Masculino,11,15.9,86.6,5,0,0,1620,2.4,0,4,Monoparental,S?,No,0
+EST-0921,Comas,3ro,Femenino,13,10.7,94.9,6,1,0,3840,0.4,22,5,Biparental,S?,No,0
+EST-0922,Independencia,3ro,Masculino,13,15.2,75.2,4,0,0,1390,5.7,0,3,Biparental,S?,No,0
+EST-0923,San Mart?n de Porres,5to,Femenino,16,11.4,80.2,5,0,0,3320,0.4,24,4,Monoparental,No,No,0
+EST-0924,San Mart?n de Porres,1ro,Masculino,11,11.6,91.9,5,0,0,2100,2.8,0,2,Monoparental,S?,No,0
+EST-0925,Los Olivos,5to,Femenino,16,15.8,72.3,11,0,0,2940,0.3,0,3,Biparental,S?,No,0
+EST-0926,Puente Piedra,4to,Femenino,15,12.6,91.2,6,0,0,4560,7.3,0,3,Extendida,No,No,0
+EST-0927,Carabayllo,4to,Masculino,14,12.2,74.3,6,2,0,2870,6.9,32,3,Extendida,S?,No,0
+EST-0928,Comas,2do,Femenino,14,13.3,80.9,11,0,0,6250,3.3,0,2,Biparental,S?,S?,0
+EST-0929,Los Olivos,3ro,Femenino,15,13.6,100.0,4,0,0,2620,5.3,0,4,Biparental,No,No,0
+EST-0930,Independencia,4to,Femenino,14,15.8,96.5,4,0,0,790,2.3,0,3,Biparental,S?,No,0
+EST-0931,Comas,2do,Masculino,14,14.2,91.1,6,0,0,2650,1.0,0,4,Monoparental,S?,No,0
+EST-0932,Puente Piedra,1ro,Masculino,11,17.3,88.0,7,0,0,1920,0.7,0,3,Biparental,No,No,0
+EST-0933,Comas,2do,Masculino,14,12.1,86.0,3,1,0,1340,2.9,0,5,Extendida,S?,No,0
+EST-0934,San Mart?n de Porres,1ro,Femenino,11,12.5,82.3,9,0,0,1930,2.6,0,3,Biparental,S?,No,0
+EST-0935,Carabayllo,1ro,Masculino,11,12.4,87.7,5,0,0,1320,3.4,0,2,Biparental,S?,No,0
+EST-0936,Puente Piedra,1ro,Femenino,13,12.1,89.4,9,0,0,2720,1.3,21,5,Tutor/Otro,S?,No,0
+EST-0937,Independencia,4to,Femenino,14,12.0,85.4,10,0,0,2510,1.1,0,2,Extendida,S?,No,0
+EST-0938,Puente Piedra,5to,Femenino,15,12.3,73.8,7,2,0,3510,7.0,33,3,Biparental,S?,No,0
+EST-0939,Independencia,2do,Masculino,12,13.9,96.2,2,1,0,3030,3.8,0,3,Biparental,S?,S?,0
+EST-0940,Comas,2do,Masculino,12,12.6,75.0,6,3,1,3060,5.0,0,4,Monoparental,S?,No,1
+EST-0941,Puente Piedra,4to,Femenino,14,13.7,88.5,3,0,0,1000,2.9,8,4,Monoparental,S?,No,0
+EST-0942,San Mart?n de Porres,3ro,Masculino,15,11.3,81.6,7,1,0,1840,3.1,0,3,Extendida,S?,No,0
+EST-0943,Puente Piedra,2do,Masculino,14,13.5,91.0,7,0,0,730,3.1,0,5,Monoparental,S?,No,0
+EST-0944,Anc?n,2do,Masculino,14,10.3,74.9,7,5,0,2970,5.0,23,3,Biparental,S?,S?,1
+EST-0945,Anc?n,5to,Masculino,16,12.1,88.5,8,1,0,2130,3.1,0,2,Biparental,S?,No,0
+EST-0946,Carabayllo,2do,Femenino,12,12.3,83.1,9,2,0,2480,6.3,0,2,Biparental,No,No,0
+EST-0947,Comas,3ro,Masculino,13,12.3,83.5,9,1,0,2020,1.6,8,2,Biparental,S?,No,0
+EST-0948,Carabayllo,1ro,Masculino,11,13.0,76.8,8,0,0,2520,0.8,0,3,Biparental,No,No,0
+EST-0949,San Mart?n de Porres,4to,Femenino,15,13.7,97.3,3,0,0,690,2.3,0,3,Monoparental,S?,S?,0
+EST-0950,Comas,3ro,Masculino,15,12.0,67.9,9,2,0,2550,6.7,0,4,Tutor/Otro,S?,No,1
+EST-0951,Independencia,2do,Masculino,12,13.7,82.3,9,0,0,5580,4.1,0,3,Extendida,No,No,0
+EST-0952,Carabayllo,3ro,Masculino,13,12.1,73.0,8,1,0,2620,0.6,32,3,Biparental,No,S?,0
+EST-0953,Comas,1ro,Femenino,13,12.6,80.4,10,0,0,1660,4.9,33,5,Monoparental,S?,S?,0
+EST-0954,Los Olivos,5to,Masculino,17,13.1,96.9,8,0,0,4410,2.8,0,4,Biparental,S?,No,0
+EST-0955,Independencia,5to,Masculino,15,10.4,85.2,10,2,0,2540,0.8,0,2,Extendida,S?,No,1
+EST-0956,Carabayllo,5to,Masculino,16,10.7,83.3,15,1,0,2610,5.2,0,3,Biparental,S?,No,0
+EST-0957,Puente Piedra,2do,Masculino,14,12.9,75.5,8,0,0,6330,1.6,0,3,Biparental,No,No,1
+EST-0958,San Mart?n de Porres,5to,Masculino,17,11.9,86.5,8,1,0,2740,4.9,0,3,Biparental,S?,No,1
+EST-0959,Comas,2do,Femenino,14,13.0,89.5,5,0,0,1490,3.2,21,2,Biparental,S?,No,1
+EST-0960,Comas,1ro,Femenino,11,15.6,91.3,7,0,0,1330,1.8,0,4,Extendida,No,No,0
+EST-0961,Puente Piedra,1ro,Masculino,13,12.6,84.4,10,1,1,3920,2.0,0,2,Extendida,No,No,1
+EST-0962,Independencia,3ro,Masculino,14,10.1,77.8,9,3,1,860,0.6,0,4,Biparental,S?,No,0
+EST-0963,Anc?n,3ro,Femenino,13,12.8,90.7,5,0,0,1600,3.6,0,4,Biparental,S?,No,0
+EST-0964,Anc?n,1ro,Femenino,11,12.2,92.7,7,0,0,1460,2.8,24,4,Monoparental,S?,No,0
+EST-0965,Santa Rosa,5to,Femenino,17,11.5,72.1,7,0,0,3650,2.7,27,3,Monoparental,S?,No,1
+EST-0966,Puente Piedra,5to,Femenino,17,10.3,94.1,2,2,0,1880,2.7,15,3,Extendida,S?,No,0
+EST-0967,Los Olivos,3ro,Masculino,14,14.4,96.1,6,0,0,2330,3.3,0,5,Monoparental,S?,No,0
+EST-0968,Carabayllo,2do,Masculino,14,11.6,88.3,8,1,0,750,1.7,0,4,Extendida,S?,No,0
+EST-0969,San Mart?n de Porres,4to,Femenino,14,13.1,94.5,3,1,0,1590,0.6,24,2,Monoparental,S?,No,0
+EST-0970,Comas,3ro,Masculino,14,13.6,93.3,5,0,0,2070,3.4,0,4,Biparental,No,No,0
+EST-0971,Comas,4to,Femenino,14,14.0,98.0,4,0,0,2050,5.6,0,2,Tutor/Otro,S?,No,0
+EST-0972,Puente Piedra,2do,Femenino,13,16.8,97.8,4,0,0,2100,6.1,12,4,Biparental,No,No,0
+EST-0973,San Mart?n de Porres,2do,Masculino,14,12.5,90.9,4,0,0,2910,5.6,0,4,Biparental,S?,No,0
+EST-0974,Anc?n,1ro,Masculino,13,13.8,82.6,6,0,0,2410,3.5,0,5,Monoparental,S?,No,0
+EST-0975,Los Olivos,4to,Femenino,15,12.9,83.6,8,1,0,4380,3.5,14,3,Monoparental,S?,S?,0
+EST-0976,Comas,5to,Femenino,17,14.0,70.9,8,0,0,1570,1.3,16,3,Monoparental,S?,No,1
+EST-0977,San Mart?n de Porres,5to,Femenino,17,12.6,97.8,3,0,0,1970,1.2,0,3,Monoparental,S?,No,0
+EST-0978,Comas,3ro,Femenino,15,14.2,89.9,6,0,0,1650,6.0,20,4,Biparental,No,No,0
+EST-0979,Comas,1ro,Femenino,13,12.0,80.6,12,2,0,4960,4.7,0,4,Extendida,S?,No,1
+EST-0980,Puente Piedra,3ro,Femenino,13,9.6,75.9,7,4,0,4230,1.1,0,4,Monoparental,S?,No,0
+EST-0981,San Mart?n de Porres,3ro,Femenino,14,9.9,87.7,8,2,0,1010,4.8,0,5,Biparental,S?,S?,1
+EST-0982,Puente Piedra,4to,Masculino,16,14.3,84.9,6,0,0,1040,3.3,0,4,Monoparental,No,No,0
+EST-0983,Los Olivos,2do,Masculino,13,12.2,96.8,3,0,0,3460,1.7,0,2,Biparental,No,No,0
+EST-0984,Carabayllo,3ro,Femenino,15,13.5,70.5,8,1,0,3700,4.6,0,3,Biparental,S?,No,0
+EST-0985,Comas,3ro,Femenino,15,14.9,83.5,10,0,0,2820,2.0,0,3,Biparental,S?,No,0
+EST-0986,Puente Piedra,5to,Masculino,17,14.8,88.7,6,0,0,940,4.2,0,4,Biparental,S?,No,1
+EST-0987,Carabayllo,5to,Masculino,17,17.3,81.7,7,0,0,1540,3.7,0,2,Biparental,S?,No,0
+EST-0988,San Mart?n de Porres,5to,Femenino,15,10.9,79.7,8,3,1,1470,0.9,16,5,Biparental,No,No,1
+EST-0989,San Mart?n de Porres,2do,Masculino,14,16.1,80.3,5,0,0,1820,2.5,0,3,Monoparental,No,No,0
+EST-0990,Los Olivos,1ro,Femenino,12,14.2,92.5,5,0,0,1900,4.4,0,4,Biparental,S?,No,0
+EST-0991,Comas,4to,Femenino,16,10.3,66.5,7,5,1,860,6.9,0,4,Biparental,S?,No,1
+EST-0992,San Mart?n de Porres,3ro,Masculino,14,12.6,82.5,10,0,0,1450,3.4,0,3,Biparental,No,S?,0
+EST-0993,Puente Piedra,5to,Masculino,15,11.4,78.8,7,1,0,1560,6.1,34,4,Monoparental,No,No,1
+EST-0994,Puente Piedra,1ro,Masculino,13,12.1,84.5,3,0,0,660,1.3,0,5,Extendida,S?,No,0
+EST-0995,Carabayllo,4to,Masculino,15,12.4,72.1,9,0,0,5300,4.8,18,3,Monoparental,S?,No,0
+EST-0996,Los Olivos,2do,Femenino,13,12.6,88.3,9,1,0,5280,2.1,30,4,Extendida,S?,S?,0
+EST-0997,San Mart?n de Porres,3ro,Masculino,14,10.5,92.7,5,0,0,1320,6.6,22,2,Monoparental,No,S?,0
+EST-0998,Comas,2do,Femenino,13,13.4,93.6,2,0,0,1560,7.4,0,2,Extendida,S?,No,0
+EST-0999,Comas,1ro,Femenino,11,11.7,90.3,8,1,0,1590,11.0,0,4,Biparental,S?,S?,0
+EST-1000,Independencia,4to,Masculino,15,14.6,97.1,5,0,0,1380,9.0,0,1,Extendida,No,No,0
